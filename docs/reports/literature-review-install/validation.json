@@ -128,5 +128,12 @@
     }
   ],
   "git_diff_check": "passed",
-  "dependency_compatibility": "uv pip check passed for 5 locked packages"
+  "dependency_compatibility": "uv pip check passed for 5 locked packages",
+  "github_delivery": {
+    "implementation_commit": "f8eb2aa6d0037fbc9a6944f9a356f4d55418338a",
+    "branch": "codex/literature-review-20261126",
+    "remote": "https://github.com/MEMOSPEIXAL2/spexialsun",
+    "push": "succeeded",
+    "remote_ref_equals_implementation_commit": true
+  }
 }
