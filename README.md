@@ -7,7 +7,7 @@
 ```bash
 git clone https://github.com/MEMOSPEIXAL2/spexialsun.git
 cd spexialsun
-# 首次成果位于 codex/cloud-foundation-20261126；远端尚无 main 基线
+# 首次成果及当前默认分支为 codex/cloud-foundation-20261126；远端尚无 main 基线
 # 如当前检出分支不同：git switch codex/cloud-foundation-20261126
 bash scripts/bootstrap.sh
 ```

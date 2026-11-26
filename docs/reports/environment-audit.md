@@ -96,6 +96,7 @@ spexialsun/
     └── reports/
         ├── environment-audit.md
         ├── host-discovery.json
+        ├── recovery.json
         └── smoke-latest.json
 ```
 
@@ -111,4 +112,9 @@ spexialsun/
 
 ## GitHub 保存状态
 
-提交和推送完成后在本节补记实际远端结果。空仓库没有 main 基线，不通过创建或修改 main 来制造 PR。
+- 已提交并成功推送分支 `codex/cloud-foundation-20261126`，已设置 origin 跟踪；初始提交 `a58acd712b78782877fe5f032ef4da62b3ec333c`。
+- 首次推送后 GitHub 自动将该分支设为默认分支；已用 GitHub API 及 `git ls-remote --symref origin HEAD` 核实。执行者没有另外修改默认分支设置。
+- 新目录从 GitHub 重新克隆该提交，运行 bootstrap 和 5 项校验测试均成功，受跟踪工作区仍干净；证据见 recovery.json。这证明已推送文件可恢复，不代表新云端任务识别通过。
+- PR 未创建：main 不存在，成果分支已成为远端唯一分支与默认分支，没有独立比较基线。不创建无意义的空 PR，也未写入 main。后续正常从该分支创建工作分支即可走 PR 流程。
+- 本报告及恢复证据通过后续文档提交保存；最终提交以远端分支最新 `git log -1` 为准。没有强推、重写历史或删除分支。
+- 回滚后续更新用 `git revert <具体变更提交>` 并重新验证；首次基础提交没有前置版本，撤销它会移除全部新增基础文件，采用前须明确需要移除哪些成果。

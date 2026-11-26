@@ -1,0 +1,21 @@
+{
+  "generated_at_utc": "2026-11-26T09:10:34.067724+00:00",
+  "source": "https://github.com/MEMOSPEIXAL2/spexialsun.git",
+  "branch": "codex/cloud-foundation-20261126",
+  "tested_commit": "a58acd712b78782877fe5f032ef4da62b3ec333c",
+  "fresh_remote_clone": "passed",
+  "checks": [
+    {
+      "command": "bash scripts/bootstrap.sh",
+      "exit_code": 0,
+      "output": "/tmp/spexialsun-recovery-6vtk_9kh/repo\nPASS: 1 skill(s); names, metadata and all file hashes match\n{\"schema_version\": 1, \"generated_at_utc\": \"2026-11-26T09:10:33.817463+00:00\", \"status\": \"passed\", \"checks\": {\"AGENTS.md\": true, \"README.md\": true, \"skills-lock.json\": true, \".agents/skills/cloud-smoke/SKILL.md\": true, \"docs/context.md\": true, \"git_root\": true}, \"scope\": \"offline workflow only; host invocation and cross-task persistence not implied\"}\n基础验证完成；此脚本不会注册环境配置或证明宿主调用成功。"
+    },
+    {
+      "command": "python3 scripts/test_skills.py",
+      "exit_code": 0,
+      "output": ".....\n----------------------------------------------------------------------\nRan 5 tests in 0.148s\n\nOK"
+    }
+  ],
+  "tracked_worktree_clean_after_tests": true,
+  "scope": "fresh GitHub clone in same cloud machine; not a new cloud task or host invocation test"
+}

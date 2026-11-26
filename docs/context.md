@@ -6,7 +6,7 @@
 
 为建筑设计、科研、文献分析、开发和长期项目建立简洁基础环境。仓库原为空；本次建立环境检查及 Skill 管理基础，尚未安装第三方 Skill。
 
-当前成果分支：`codex/cloud-foundation-20261126`。首次推送后以远端实际 refs 为准；初始不存在 main 或其他提交。
+当前成果分支：`codex/cloud-foundation-20261126`。首次推送成功后，该分支已由 GitHub 自动成为默认分支。初始提交为 a58acd7；初始不存在 main 或其他提交。GitHub 新检出恢复验证通过，见 docs/reports/recovery.json。宿主发现和调用仍未验证。
 
 ## 已确定的决策
 
