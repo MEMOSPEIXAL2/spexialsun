@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-11-26T09:08:49.751412+00:00",
+  "status": "passed",
+  "checks": {
+    "AGENTS.md": true,
+    "README.md": true,
+    "skills-lock.json": true,
+    ".agents/skills/cloud-smoke/SKILL.md": true,
+    "docs/context.md": true,
+    "git_root": true
+  },
+  "scope": "offline workflow only; host invocation and cross-task persistence not implied"
+}

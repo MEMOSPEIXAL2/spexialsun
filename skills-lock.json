@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "skills": {
+    "cloud-smoke": {
+      "source": "first-party:MEMOSPEIXAL2/spexialsun",
+      "revision": "foundation-v1",
+      "license": "Repository-authored; no third-party code",
+      "review": "Read complete instructions and stdlib-only script; no network, credentials or subprocess shell execution",
+      "files": {
+        "SKILL.md": "09c3e58ff4be52806d667d55a5b1a7e69fae66274b40accce67b86dba1b768c6",
+        "scripts/smoke.py": "be8a05199c7f3c1657ef2a358f80d54463cfbf5f92d31369cf6f597143800437"
+      }
+    }
+  }
+}

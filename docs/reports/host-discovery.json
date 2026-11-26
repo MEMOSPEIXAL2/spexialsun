@@ -1,0 +1,20 @@
+{
+  "probe": "installed Codex app-server skills/list",
+  "agent_turn_started": false,
+  "status": "blocked",
+  "reason": "EOF",
+  "cli_version": "0.172.0-alpha.2",
+  "attempts": [
+    {
+      "configuration": "default inherited Codex home",
+      "result": "blocked",
+      "reason": "read-only managed state directory; SQLite initialization failed"
+    },
+    {
+      "configuration": "temporary sqlite_home and log_dir overrides; inherited Codex home preserved",
+      "result": "blocked",
+      "reason": "app-server exited with Read-only file system before responding to initialize"
+    }
+  ],
+  "scope": "Independent installed CLI host only; current chat skill catalogue was not refreshed and no model invocation was run"
+}

@@ -1,0 +1,22 @@
+# Credentials and private local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets/
+# Per-machine Codex state (project skills remain tracked)
+.codex/
+.agents/.cache/
+# Dependencies and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+.cache/
+artifacts/
+*.log
+.DS_Store
