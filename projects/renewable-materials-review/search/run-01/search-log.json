@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "CR01",
+    "url": "https://api.crossref.org/works?query.bibliographic=bamboo+construction+life+cycle+assessment+environmental+carbon&rows=20&filter=from-pub-date%3A2000-01-01%2Cuntil-pub-date%3A2026-11-26%2Ctype%3Ajournal-article",
+    "retrieved_at_utc": "2026-11-26T09:41:07.747688+00:00",
+    "http_status": 200,
+    "raw_file": "raw/000-CR01.json",
+    "sha256": "1e06113a2b03364d557cbe0be82bd1686eb05342fb7ea0b67d26fab354ccb25c",
+    "status": "ok",
+    "exported_count": 20,
+    "reported_total": 4503561,
+    "exhaustive": false,
+    "cap": 20
+  },
+  {
+    "query_id": "CR02",
+    "url": "https://api.crossref.org/works?query.bibliographic=mass+timber+buildings+embodied+biogenic+carbon+life+cycle+assessment&rows=20&filter=from-pub-date%3A2000-01-01%2Cuntil-pub-date%3A2026-11-26%2Ctype%3Ajournal-article",
+    "retrieved_at_utc": "2026-11-26T09:41:10.285377+00:00",
+    "http_status": 200,
+    "raw_file": "raw/001-CR02.json",
+    "sha256": "2fc5b15980aa8a60f56bc174584c92876b92a89a96438a183018964b8cdebcae",
+    "status": "ok",
+    "exported_count": 20,
+    "reported_total": 3363506,
+    "exhaustive": false,
+    "cap": 20
+  },
+  {
+    "query_id": "CR03",
+    "url": "https://api.crossref.org/works?query.bibliographic=engineered+bamboo+structural+applications+environmental+assessment&rows=20&filter=from-pub-date%3A2000-01-01%2Cuntil-pub-date%3A2026-11-26%2Ctype%3Ajournal-article",
+    "retrieved_at_utc": "2026-11-26T09:41:12.677663+00:00",
+    "http_status": 200,
+    "raw_file": "raw/002-CR03.json",
+    "sha256": "54bd590fbcdd0a6e0fc5c5847653665f700f140a204bdc61f220b22fed529348",
+    "status": "ok",
+    "exported_count": 20,
+    "reported_total": 4195698,
+    "exhaustive": false,
+    "cap": 20
+  },
+  {
+    "query_id": "OA01",
+    "url": "https://api.openalex.org/works?search=bamboo+building+life+cycle+carbon&per_page=20&filter=from_publication_date%3A2000-01-01%2Cto_publication_date%3A2026-11-26",
+    "retrieved_at_utc": "2026-11-26T09:41:14.809303+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query_id": "OA02",
+    "url": "https://api.openalex.org/works?search=timber+buildings+carbon+storage+substitution+life+cycle&per_page=20&filter=from_publication_date%3A2000-01-01%2Cto_publication_date%3A2026-11-26",
+    "retrieved_at_utc": "2026-11-26T09:41:16.153816+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query_id": "OA03",
+    "url": "https://api.openalex.org/works?search=%E7%AB%B9%E6%9D%90+%E6%9C%A8%E7%BB%93%E6%9E%84+%E5%BB%BA%E7%AD%91+%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F+%E7%A2%B3%E6%8E%92%E6%94%BE&per_page=20&filter=from_publication_date%3A2000-01-01%2Cto_publication_date%3A2026-11-26",
+    "retrieved_at_utc": "2026-11-26T09:41:17.435611+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+]

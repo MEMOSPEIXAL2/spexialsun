@@ -1,0 +1,15 @@
+{
+  "retrieved_database_records": 60,
+  "supplementary_new_records": 1,
+  "duplicates_removed": 0,
+  "records_available": 61,
+  "pilot_sample": 15,
+  "title_scope_exclusions": 13,
+  "not_selected_pending_screening": 33,
+  "fulltext_read": 2,
+  "abstract_only": 12,
+  "metadata_only": 1,
+  "formal_fulltext_eligibility_complete": false,
+  "single_reviewer": true,
+  "scope": "bounded top-20-per-query pilot; no PRISMA completeness claim"
+}

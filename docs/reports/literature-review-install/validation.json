@@ -1,0 +1,132 @@
+{
+  "generated_at_utc": "2026-11-26T09:56:35.555832+00:00",
+  "branch": "codex/literature-review-20261126",
+  "bootstrap": "passed; 2 registered skills",
+  "offline_tests": {
+    "command": "python3 scripts/test_literature_review.py",
+    "tests": 5,
+    "status": "passed"
+  },
+  "installed_scripts_syntax": "passed",
+  "doi_registered": 15,
+  "doi_unresolved": 0,
+  "crossref_metadata_retrieved": 14,
+  "publisher_pdf_identity_verified_non_crossref": 1,
+  "openalex_doi_matches": 14,
+  "openalex_keyword_search": "HTTP 429",
+  "semantic_scholar_keyword_search": "HTTP 429",
+  "reading_depth": {
+    "fulltext_read": 2,
+    "abstract_or_excerpt": 12,
+    "metadata_only": 1
+  },
+  "exports": [
+    "CSV",
+    "JSON matrix",
+    "BibTeX",
+    "RIS",
+    "CSL JSON",
+    "GB/T 7714-2015 text"
+  ],
+  "pdf_render": {
+    "status": "passed after using native XeTeX line breaking and installed CJK fonts; optional xeCJK package unavailable",
+    "installation_report_pages": 5,
+    "pilot_report_pages": 4,
+    "visual_check": "report pages 1 and 2 inspected; no clipping observed"
+  },
+  "host_discovery": {
+    "status": "blocked",
+    "executor_skill_list": [],
+    "cli": "0.172.0-alpha.2",
+    "error": "app-server cannot write to readonly state/config locations; a temporary sqlite_home/log_dir did not resolve startup",
+    "implicit_selection": "not tested",
+    "explicit_host_dollar_invocation": "not tested",
+    "explicit_instruction_read_and_workflow": "passed in current chat",
+    "cross_task": "not tested"
+  },
+  "security_review": {
+    "retained_upstream_scripts": 3,
+    "local_adapters": 2,
+    "omitted": [
+      "generate_schematic.py",
+      "generate_schematic_ai.py"
+    ],
+    "paid_services_used": false,
+    "global_packages_installed": false,
+    "statement": "bounded source review and tests, not an external security certification"
+  },
+  "installed_files": [
+    {
+      "path": "LICENSE.md",
+      "origin": "upstream MIT license",
+      "sha256": "09b02a3c9df3053c55531d503357a9c7cde275970e6c3ceaa1ddf5f0e90b40c1"
+    },
+    {
+      "path": "SKILL.md",
+      "origin": "local adaptation/addition",
+      "sha256": "eec4fd95fe58958a4e699a113e6bcfc94fc91f115009b7f27d8b43fac994301a"
+    },
+    {
+      "path": "assets/review_template.md",
+      "origin": "upstream template; Markdown hard breaks changed from trailing spaces to backslashes",
+      "sha256": "8822905a4d904c42fc4cb67cb810db57aa01907b41d988604da1b580e4d92c9e"
+    },
+    {
+      "path": "references/architecture.md",
+      "origin": "local adaptation/addition",
+      "sha256": "5ef38f85f0591c88dc80050b224b7def23ab77e755b6ddc7bad17767927cf80c"
+    },
+    {
+      "path": "references/citation_styles.md",
+      "origin": "unchanged upstream",
+      "sha256": "2a50e43b18c2fff781e04406deb66186ba8f91ed28af32004aba63c63dcc1789"
+    },
+    {
+      "path": "references/core_workflow.md",
+      "origin": "unchanged upstream",
+      "sha256": "4d63f1087c98efeec7c7bf622bed6e0456a9c7c3defe584995917f2de6f2c601"
+    },
+    {
+      "path": "references/database_strategies.md",
+      "origin": "unchanged upstream",
+      "sha256": "24b56cd88128a9016520ed6b5e2abb79e19dc9b86cbf064927e9056aa1504f48"
+    },
+    {
+      "path": "references/example_workflow.md",
+      "origin": "unchanged upstream",
+      "sha256": "86336c42f78ff282430a6cdd2282a99562cc9d5e46b62e70a33bd839f9ab726a"
+    },
+    {
+      "path": "references/search_and_citation.md",
+      "origin": "unchanged upstream",
+      "sha256": "f33d671351989ee86066b9a21bdbf630a1f60001ada92fda4c942006d37b74fe"
+    },
+    {
+      "path": "scripts/export_review.py",
+      "origin": "local adaptation/addition",
+      "sha256": "8669a25e4a07cd7028a4e9a87598d092ee5fea9271bd2a69a01338e50a1cd171"
+    },
+    {
+      "path": "scripts/generate_pdf.py",
+      "origin": "unchanged upstream",
+      "sha256": "0ba1b16b196b64d4966e5f055a289f0c17e3579a84254abe47ff63be95b4f136"
+    },
+    {
+      "path": "scripts/retrieve.py",
+      "origin": "local adaptation/addition",
+      "sha256": "3ea4aa4e9c40ed4b9c3088ace5e8c7399d89cb28c519352c66c945397f9023eb"
+    },
+    {
+      "path": "scripts/search_databases.py",
+      "origin": "unchanged upstream",
+      "sha256": "76f47fd18ca28df4985ffc6d30d5ad659e67c8058bb3de8f385c2443752f4eaf"
+    },
+    {
+      "path": "scripts/verify_citations.py",
+      "origin": "unchanged upstream",
+      "sha256": "4c8e8377718ddd47e9cd7cef706935b04910af5d13bfd920970dcf41d4ef3706"
+    }
+  ],
+  "git_diff_check": "passed",
+  "dependency_compatibility": "uv pip check passed for 5 locked packages"
+}

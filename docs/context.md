@@ -4,7 +4,7 @@
 
 ## 目标与状态
 
-为建筑设计、科研、文献分析、开发和长期项目建立简洁基础环境。仓库原为空；本次建立环境检查及 Skill 管理基础，尚未安装第三方 Skill。
+为建筑设计、科研、文献分析、开发和长期项目建立简洁基础环境。已在独立分支安装K-Dense文献综述建筑适配版，并完成15篇竹木低碳材料试验。详见下方新增记录。
 
 当前成果分支：`codex/cloud-foundation-20261126`。首次推送成功后，该分支已由 GitHub 自动成为默认分支。初始提交为 a58acd7；初始不存在 main 或其他提交。GitHub 新检出恢复验证通过，见 docs/reports/recovery.json。宿主发现和调用仍未验证。
 
@@ -17,6 +17,10 @@
 - 2026-11-26：公开仓库只保留可公开资料；研究全文和私有图纸使用独立的私有资料库。
 
 ## 下一步
+
+文献综述成果分支：`codex/literature-review-20261126`。入口为docs/literature-review-guide.md和docs/reports/literature-review-install/report.zh-CN.md。15篇试验位于projects/renewable-materials-review；2篇全文、12篇摘要/片段、1篇题录，15个DOI注册通过。OpenAlex关键词和S2检索429，OpenAlex单DOI核验成功。当前executor技能服务为空，CLI宿主发现探测受只读状态目录阻断；显式读取与真实工作流已验证，自动发现、自动选择及新任务验证未完成。保留原cloud-smoke和所有基础结构。
+
+下轮优先：在支持项目技能扫描的宿主检出上述分支并复测发现；按需配置OpenAlex秘密Key；补齐全文及正式协议后再开展系统综述。安装/回滚按技能指南执行。
 
 1. 阅读 docs/reports/environment-audit.md，确认宿主验证和远端保存的实际状态。
 2. 按 docs/maintenance.md 创建并发布可复用云端环境，在新任务中检出该分支，运行基础验证及宿主调用测试。

@@ -1,0 +1,254 @@
+[
+  {
+    "query_id": "crossref-01",
+    "url": "https://api.crossref.org/works/10.3390/su18104834",
+    "retrieved_at_utc": "2026-11-26T09:42:30.763465+00:00",
+    "http_status": 200,
+    "raw_file": "raw/000-crossref-01.json",
+    "sha256": "0b99e3ad74ac0584ed45086384d16a7cbbc6624c4469b8e250784dc125e960f4",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-01",
+    "url": "https://api.openalex.org/works/https://doi.org/10.3390/su18104834",
+    "retrieved_at_utc": "2026-11-26T09:42:31.474899+00:00",
+    "http_status": 200,
+    "raw_file": "raw/001-openalex-01.json",
+    "sha256": "819734850e02d20e0945e90451505ecf9c7746babd5e98961c24071be24491f6",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-02",
+    "url": "https://api.crossref.org/works/10.1016/j.eiar.2022.106853",
+    "retrieved_at_utc": "2026-11-26T09:42:32.098237+00:00",
+    "http_status": 200,
+    "raw_file": "raw/002-crossref-02.json",
+    "sha256": "edf221978d11af4c422dec4c0ad96ac46a7b9370f08e68b86ace92aff9fa8cb0",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-02",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.eiar.2022.106853",
+    "retrieved_at_utc": "2026-11-26T09:42:32.793970+00:00",
+    "http_status": 200,
+    "raw_file": "raw/003-openalex-02.json",
+    "sha256": "e8d5774ca5d7d867a1c7530115cb85aeed44e03a6bac7c2c23a611090f5aa3bb",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-03",
+    "url": "https://api.crossref.org/works/10.1016/j.cesys.2024.100243",
+    "retrieved_at_utc": "2026-11-26T09:42:33.474652+00:00",
+    "http_status": 200,
+    "raw_file": "raw/004-crossref-03.json",
+    "sha256": "ceac845eb1da7633d48ffa5d04b7599fcb2eb3a5bceb8f8270b64ce9b9a6d33e",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-03",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.cesys.2024.100243",
+    "retrieved_at_utc": "2026-11-26T09:42:34.245587+00:00",
+    "http_status": 200,
+    "raw_file": "raw/005-openalex-03.json",
+    "sha256": "fdf5224f4e8fb267e31aba624bfa5b32ed05088f742a8eb8c82318f9b4c28062",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-04",
+    "url": "https://api.crossref.org/works/10.15376/biores.14.4.9132-9145",
+    "retrieved_at_utc": "2026-11-26T09:42:34.868010+00:00",
+    "http_status": 200,
+    "raw_file": "raw/006-crossref-04.json",
+    "sha256": "4b010d36cc20a8a7c0b397f1530037ef126a44dfece32cb42704d8ee4036e522",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-04",
+    "url": "https://api.openalex.org/works/https://doi.org/10.15376/biores.14.4.9132-9145",
+    "retrieved_at_utc": "2026-11-26T09:42:35.534316+00:00",
+    "http_status": 200,
+    "raw_file": "raw/007-openalex-04.json",
+    "sha256": "efa74b2bc6cf2254a424353e053e7082939228130b1fb9578bdd2629ea45fd75",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-05",
+    "url": "https://api.crossref.org/works/10.15376/biores.11.1.1941-1950",
+    "retrieved_at_utc": "2026-11-26T09:42:36.102504+00:00",
+    "http_status": 200,
+    "raw_file": "raw/008-crossref-05.json",
+    "sha256": "e14f99e1bec7a446e563dcba4d6cb8874133dbea2a51b7ed37418cec731d3232",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-05",
+    "url": "https://api.openalex.org/works/https://doi.org/10.15376/biores.11.1.1941-1950",
+    "retrieved_at_utc": "2026-11-26T09:42:36.728926+00:00",
+    "http_status": 200,
+    "raw_file": "raw/009-openalex-05.json",
+    "sha256": "151b84c9224cd287dc9a3fc207a8240402729399c6d06da6ed2c38eaf2935b3c",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-06",
+    "url": "https://api.crossref.org/works/10.3390/su10093096",
+    "retrieved_at_utc": "2026-11-26T09:42:37.232252+00:00",
+    "http_status": 200,
+    "raw_file": "raw/010-crossref-06.json",
+    "sha256": "a0edb349c8a23eb3be80b05787a0c48ee738cff276c0c5cc9a9a42aa8633916a",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-06",
+    "url": "https://api.openalex.org/works/https://doi.org/10.3390/su10093096",
+    "retrieved_at_utc": "2026-11-26T09:42:37.831403+00:00",
+    "http_status": 200,
+    "raw_file": "raw/011-openalex-06.json",
+    "sha256": "aa245b7acdd6b019ca5a312996af43414f793ee77cf8abe2995de78265d79b42",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-07",
+    "url": "https://api.crossref.org/works/10.1007/s11367-013-0629-6",
+    "retrieved_at_utc": "2026-11-26T09:42:38.355622+00:00",
+    "http_status": 200,
+    "raw_file": "raw/012-crossref-07.json",
+    "sha256": "5d6d5b2bb0be1e42cfd71fb452074f9e2d3a350399caba8aca587d524195240d",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-07",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s11367-013-0629-6",
+    "retrieved_at_utc": "2026-11-26T09:42:39.007135+00:00",
+    "http_status": 200,
+    "raw_file": "raw/013-openalex-07.json",
+    "sha256": "0c89f6f4058183622fc3feab5daaf96e3ce6b1696af90b07acee2198b9987588",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-08",
+    "url": "https://api.crossref.org/works/10.1016/j.enbuild.2021.111604",
+    "retrieved_at_utc": "2026-11-26T09:42:39.476974+00:00",
+    "http_status": 200,
+    "raw_file": "raw/014-crossref-08.json",
+    "sha256": "dbb8c30c15eb56fd9490007324c98d6679ac2265c612eb7c7debecff6a087a86",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-08",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.enbuild.2021.111604",
+    "retrieved_at_utc": "2026-11-26T09:42:40.180667+00:00",
+    "http_status": 200,
+    "raw_file": "raw/015-openalex-08.json",
+    "sha256": "98d3f9f3686b28f1ac2dd084da4c0929c7d3227f19b57208d02a6d943f7d27b6",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-09",
+    "url": "https://api.crossref.org/works/10.1007/s11367-021-01960-8",
+    "retrieved_at_utc": "2026-11-26T09:42:40.670801+00:00",
+    "http_status": 200,
+    "raw_file": "raw/016-crossref-09.json",
+    "sha256": "816b8539317c6380c2746f46f49d5897e482e0abc31179dab85e5d9ae99511dc",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-09",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1007/s11367-021-01960-8",
+    "retrieved_at_utc": "2026-11-26T09:42:41.081185+00:00",
+    "http_status": 200,
+    "raw_file": "raw/017-openalex-09.json",
+    "sha256": "fb2468716e4dc49e98f0c559860093a6345f14aba35012c66988f9ca538386df",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-10",
+    "url": "https://api.crossref.org/works/10.3390/su16156465",
+    "retrieved_at_utc": "2026-11-26T09:42:41.584663+00:00",
+    "http_status": 200,
+    "raw_file": "raw/018-crossref-10.json",
+    "sha256": "a606fb85ceb133cd5a2594730776c38fa5b5beb78da7634b6a357bf33276da46",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-10",
+    "url": "https://api.openalex.org/works/https://doi.org/10.3390/su16156465",
+    "retrieved_at_utc": "2026-11-26T09:42:42.177458+00:00",
+    "http_status": 200,
+    "raw_file": "raw/019-openalex-10.json",
+    "sha256": "05324c4ef8818c7a05e0b0df43f83613ea5acb3c0e0903a29b0ceec75d3dd1b5",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-11",
+    "url": "https://api.crossref.org/works/10.3390/su13063401",
+    "retrieved_at_utc": "2026-11-26T09:42:42.722151+00:00",
+    "http_status": 200,
+    "raw_file": "raw/020-crossref-11.json",
+    "sha256": "b7875609a4ce935194a1c0df36c9a861459bca82cc26566d01dcbe760de4e7cb",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-11",
+    "url": "https://api.openalex.org/works/https://doi.org/10.3390/su13063401",
+    "retrieved_at_utc": "2026-11-26T09:42:43.329731+00:00",
+    "http_status": 200,
+    "raw_file": "raw/021-openalex-11.json",
+    "sha256": "516d4390dba81199369a6d1db082d5364fe1e151320cbd088e2fbfdffbe08421",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-12",
+    "url": "https://api.crossref.org/works/10.1016/j.buildenv.2022.108944",
+    "retrieved_at_utc": "2026-11-26T09:42:43.775291+00:00",
+    "http_status": 200,
+    "raw_file": "raw/022-crossref-12.json",
+    "sha256": "1a8dd8387da8f5bc9e0c4ffb0d60872b35f235ebf76988b00f392fda6285e8f1",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-12",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.buildenv.2022.108944",
+    "retrieved_at_utc": "2026-11-26T09:42:44.189872+00:00",
+    "http_status": 200,
+    "raw_file": "raw/023-openalex-12.json",
+    "sha256": "225934bfcdd9c049317aa7254a227f335570a0a5feea5e44f16a2b7afad86a61",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-13",
+    "url": "https://api.crossref.org/works/10.1016/j.conbuildmat.2015.01.077",
+    "retrieved_at_utc": "2026-11-26T09:42:44.671466+00:00",
+    "http_status": 200,
+    "raw_file": "raw/024-crossref-13.json",
+    "sha256": "23e046d6a214fe4ab032dd397646c66c59cee07d84bcd5c7fad6288f0db936d5",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-13",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.conbuildmat.2015.01.077",
+    "retrieved_at_utc": "2026-11-26T09:42:45.115373+00:00",
+    "http_status": 200,
+    "raw_file": "raw/025-openalex-13.json",
+    "sha256": "d4d2f9d0ab697501f09b49ace93751ff983ea904fa5d731db7a236597cb7b3e9",
+    "status": "ok"
+  },
+  {
+    "query_id": "crossref-14",
+    "url": "https://api.crossref.org/works/10.1016/j.eiar.2025.107958",
+    "retrieved_at_utc": "2026-11-26T09:42:45.634865+00:00",
+    "http_status": 200,
+    "raw_file": "raw/026-crossref-14.json",
+    "sha256": "732072872103a9dcc9e5e96ba3ea945b457f21bc417ffad3eef7983edcb3705f",
+    "status": "ok"
+  },
+  {
+    "query_id": "openalex-14",
+    "url": "https://api.openalex.org/works/https://doi.org/10.1016/j.eiar.2025.107958",
+    "retrieved_at_utc": "2026-11-26T09:42:46.324590+00:00",
+    "http_status": 200,
+    "raw_file": "raw/027-openalex-14.json",
+    "sha256": "270c25e8e6ea9201f6e27bbe0c288c163f4bdd524c7369560baa9e3401e03ae6",
+    "status": "ok"
+  }
+]

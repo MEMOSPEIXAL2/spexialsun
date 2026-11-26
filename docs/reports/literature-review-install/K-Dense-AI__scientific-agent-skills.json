@@ -1,0 +1,160 @@
+{
+  "full_name": "K-Dense-AI/scientific-agent-skills",
+  "html_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+  "stargazers_count": 58520,
+  "forks_count": 5124,
+  "open_issues_count": 102,
+  "pushed_at": "2026-11-23T09:18:27Z",
+  "updated_at": "2026-11-26T09:32:36Z",
+  "created_at": "2025-10-19T20:54:15Z",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "archived": false,
+  "commit": "c21d13b3cc2894680229ba9959a53281acb9200e",
+  "skill_path": "skills/literature-review",
+  "retrieved_at": "2026-11-26T09:38:47.605296+00:00",
+  "recent_skill_commits": [
+    {
+      "sha": "a92663a0214b3b9fa1ba6b958284ffd919c00a0c",
+      "date": "2026-10-01T17:15:40Z",
+      "message": "Updatea all skills to lates API endpoints, packages and docs",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/commit/a92663a0214b3b9fa1ba6b958284ffd919c00a0c"
+    },
+    {
+      "sha": "a0aea743b3059cbae85ae4ba861cc6b2c0d1e083",
+      "date": "2026-09-30T23:45:48Z",
+      "message": "fix(skills): make console diagnostics safe for cp1252\n\nFixes #292. Use readable ASCII status markers in 42 Python scripts across 20 skills, preserve figure and prompt text, keep copied validators/generators identical, and add static plus real-console regression coverage.\n\nValidation: all 20 affected isolated skill suites and spec checks pass. PyMC required a process-local PYTENSOR_FLAGS=cxx=,linker=py,blas__ldflags= override because the native macOS linker could not find d64.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/commit/a0aea743b3059cbae85ae4ba861cc6b2c0d1e083"
+    },
+    {
+      "sha": "ce9e6e9faf824aad41994576254531dfe1783d47",
+      "date": "2026-09-30T18:45:30Z",
+      "message": "Update skill versions and enhance documentation across multiple skills\n\n- Bumped version numbers for several skills: 13c-metabolic-flux to 1.1, adaptyv to 1.4, aeon to 1.2, alphagenome to 1.1, analytical-method-validation to 1.2, anndata to 1.3, arbor to 1.3, arboreto to 1.2, astropy to 1.4, autoskill to 1.5, benchling-integration to 1.6, bgpt-paper-search to 1.2, bids to 1.2, biopython to 1.4, bioservices to 1.5.\n- Updated descriptions and compatibility notes for clarity and accuracy.\n- Improved documentation for API endpoints and usage examples, ensuring users have the latest information for effective implementation.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/commit/ce9e6e9faf824aad41994576254531dfe1783d47"
+    },
+    {
+      "sha": "1e5eeffbdad3749125afe7ab48a39694e27f181c",
+      "date": "2026-09-02T16:25:16Z",
+      "message": "Update version numbers and enhance skill documentation\n\n- Bumped version in plugin.json and pyproject.toml to 2.66.0.\n- Updated skill metadata versions across multiple skills, reflecting improvements and new features.\n- Added citation guidelines to various skill documentation to ensure proper referencing of the \"Scientific Agent Skills\" paper.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/commit/1e5eeffbdad3749125afe7ab48a39694e27f181c"
+    },
+    {
+      "sha": "5f3de01dba3dbfe3f63e3928aade592891819859",
+      "date": "2026-08-13T18:04:15Z",
+      "message": "Update review model to version 3.7 across multiple scripts\n\n- Changed the review model from \"google/gemini-3.6-flash\" to \"google/gemini-3.7-flash\" in the following scripts:\n  - generate_infographic_ai.py\n  - generate_schematic_ai.py (in latex-posters, literature-review, scientific-schematics, and scientific-slides)\n  - generate_slide_image_ai.py\n- Updated documentation to reflect the new review model version in iterative_refinement.md.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/commit/5f3de01dba3dbfe3f63e3928aade592891819859"
+    }
+  ],
+  "recent_issues": [
+    {
+      "number": 274,
+      "title": "Add AgentFEM finite-element simulation workflow skill",
+      "state": "open",
+      "comments": 2,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/274"
+    },
+    {
+      "number": 388,
+      "title": "Redact PKCS#8 and PGP keys and quoted secrets in autoskill",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/388"
+    },
+    {
+      "number": 384,
+      "title": "Add mumax3 skill for GPU micromagnetic simulations",
+      "state": "open",
+      "comments": 3,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/384"
+    },
+    {
+      "number": 387,
+      "title": "fix(alphagenome): import model modules from alphagenome.models.v1",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/387"
+    },
+    {
+      "number": 386,
+      "title": "fix(database-lookup): move GWAS Catalog reference to REST API v2",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/386"
+    },
+    {
+      "number": 385,
+      "title": "[Improve]: database-lookup USPTO reference: note a working host for the PatentSearch v1 grammar?",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/issues/385"
+    },
+    {
+      "number": 304,
+      "title": "Add Invokely statistics reference",
+      "state": "closed",
+      "comments": 1,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/304"
+    },
+    {
+      "number": 383,
+      "title": "fix(citation-management): flag a @book with neither author nor editor",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/383"
+    },
+    {
+      "number": 382,
+      "title": "Audit result: 134/177 skills passed, health 96/100 (SkillDoctor)",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/issues/382"
+    },
+    {
+      "number": 347,
+      "title": "paperclip: verify the wheel checksum in the uv install route",
+      "state": "open",
+      "comments": 1,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/347"
+    },
+    {
+      "number": 346,
+      "title": "generate-image: prefer the env var over --api-key in the docs",
+      "state": "open",
+      "comments": 1,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/346"
+    },
+    {
+      "number": 345,
+      "title": "exa-search: treat retrieved content as untrusted",
+      "state": "open",
+      "comments": 1,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/345"
+    },
+    {
+      "number": 344,
+      "title": "mageck: verify the tarball checksum in the install workflow",
+      "state": "open",
+      "comments": 1,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/344"
+    },
+    {
+      "number": 381,
+      "title": "feat: add agents plugin marketplace and Codex plugin",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/pull/381"
+    },
+    {
+      "number": 380,
+      "title": "[New skill]: keenable-search",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills/issues/380"
+    }
+  ]
+}

@@ -1,0 +1,2453 @@
+[
+  {
+    "title": "Cold-Press Manufacturing of Laminated Bamboo and Bamboo–Timber Composites for Sustainable Construction: A Life-Cycle Carbon Assessment",
+    "authors": "Jafarnia, Nima and Ding, Yuxin and Mofidi, Amir",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0000-7086-6254",
+        "authenticated-orcid": false,
+        "given": "Nima",
+        "family": "Jafarnia",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Yousef Haj-Ahmad Department of Engineering, Brock University, St. Catharines, ON L2S 3A1, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0004-2089-5953",
+        "authenticated-orcid": false,
+        "given": "Yuxin",
+        "family": "Ding",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Yousef Haj-Ahmad Department of Engineering, Brock University, St. Catharines, ON L2S 3A1, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-9739-7208",
+        "authenticated-orcid": false,
+        "given": "Amir",
+        "family": "Mofidi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Yousef Haj-Ahmad Department of Engineering, Brock University, St. Catharines, ON L2S 3A1, Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Jafarnia",
+    "year": 2026,
+    "doi": "10.3390/su18104834",
+    "journal": "Sustainability",
+    "volume": "18",
+    "issue": "10",
+    "pages": "4834",
+    "article_number": null,
+    "abstract": "This study examines a cold-press manufacturing method for laminated bamboo and bamboo–timber composites, together with a cradle-to-gate carbon footprint analysis of the produced materials. The proposed material systems are assessed as alternatives to conventional engineered bamboo and to widely used construction materials such as structural steel, concrete, and aluminum. Existing engineered bamboo products are typically manufactured using hot pressing and formaldehyde-based adhesives, both of which contribute to their environmental burden. The present work therefore considers a more practical and environmentally responsible route based on lower-energy processing and lower-emission adhesive systems. Following a cradle-to-gate carbon footprint analysis of the produced materials, the embodied carbon values obtained for the four systems are 473.3, 322.3, 314.2, and 210.3 kg CO2e/m3 for the BBE, BPA, CBE, and CPA specimens, respectively. Relative to conventional hot-pressed laminated bamboo, these values correspond to embodied carbon reductions of 26.8%, 50.1%, 51.4%, and 67.5%, respectively. When the biogenic carbon stored in the bamboo and pine biomass is included, the net carbon balances become −415.5, −607.1, −597.0, and −618.6 kg CO2e/m3, respectively. These results show that the proposed engineered bamboo and bamboo–timber composites offer feasible low-carbon options for construction applications.",
+    "abstract_source": "Crossref deposited abstract",
+    "url": "https://doi.org/10.3390/su18104834",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-1",
+    "citations": 1,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R01",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Cold-Press Manufacturing of Laminated Bamboo and Bamboo–Timber Composites for Sustainable Construction: A Life-Cycle Carbon Assessment",
+    "openalex_year": 2026,
+    "openalex_authors": [
+      "Nima Jafarnia",
+      "Yuxin Ding",
+      "Amir Mofidi"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/2071-1050/18/10/4834/pdf?version=1778593398",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      {
+        "id": "doi:10.3390/su18104834",
+        "doi": "https://doi.org/10.3390/su18104834",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/su18104834",
+        "pdf_url": "https://www.mdpi.com/2071-1050/18/10/4834/pdf?version=1778593398",
+        "source": {
+          "id": "https://openalex.org/S10134376",
+          "display_name": "Sustainability",
+          "issn_l": "2071-1050",
+          "issn": [
+            "2071-1050"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sustainability",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "doi:10.20944/preprints202604.1187.v1",
+        "doi": "https://doi.org/10.20944/preprints202604.1187.v1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.20944/preprints202604.1187.v1",
+        "pdf_url": "https://www.preprints.org/frontend/manuscript/44bfb2625b913b113f2d189c2b64acce/download_pub",
+        "source": {
+          "id": "https://openalex.org/S6309402219",
+          "display_name": "Preprints.org",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "posted-content"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Are bamboo construction materials environmentally friendly? A life cycle environmental impact analysis",
+    "authors": "Xu, Peiyu and Zhu, Jianjun and Li, Haitao and Wei, Yang and Xiong, Zhenhua and Xu, Xiaoxiao",
+    "author": [
+      {
+        "given": "Peiyu",
+        "family": "Xu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jianjun",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Haitao",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yang",
+        "family": "Wei",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhenhua",
+        "family": "Xiong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xiaoxiao",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Xu",
+    "year": 2022,
+    "doi": "10.1016/j.eiar.2022.106853",
+    "journal": "Environmental Impact Assessment Review",
+    "volume": "96",
+    "issue": null,
+    "pages": "106853",
+    "article_number": "106853",
+    "abstract": "",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1016/j.eiar.2022.106853",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-2",
+    "citations": 92,
+    "reading_status": "metadata_only",
+    "correction_links": [],
+    "id": "R02",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Are bamboo construction materials environmentally friendly? A life cycle environmental impact analysis",
+    "openalex_year": 2022,
+    "openalex_authors": [
+      "Peiyu Xu",
+      "Jianjun Zhu",
+      "Haitao Li",
+      "Wei Tian Yang",
+      "Zhenhua Xiong",
+      "Xiaoxiao Xu"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.1016/j.eiar.2022.106853",
+        "doi": "https://doi.org/10.1016/j.eiar.2022.106853",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.eiar.2022.106853",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S167829764",
+          "display_name": "Environmental Impact Assessment Review",
+          "issn_l": "0195-9255",
+          "issn": [
+            "0195-9255",
+            "1873-6432"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Environmental Impact Assessment Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Life cycle assessment of emerging mass timber product: Cross-laminated bamboo",
+    "authors": "Wang, Yinqiao and Lan, Kai",
+    "author": [
+      {
+        "given": "Yinqiao",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4622-6326",
+        "authenticated-orcid": false,
+        "given": "Kai",
+        "family": "Lan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Wang",
+    "year": 2024,
+    "doi": "10.1016/j.cesys.2024.100243",
+    "journal": "Cleaner Environmental Systems",
+    "volume": "15",
+    "issue": null,
+    "pages": "100243",
+    "article_number": "100243",
+    "abstract": "Cross-laminated bamboo (CLB) is a new type of mass timber product that can be a substitute for traditional non-renewable construction materials. This study conducted a cradle-to-grave life cycle assessment (LCA) to quantify the environmental impacts of CLB panels over 100 years. The LCA was integrated with process model simulation to explore the effects of varied fuel options (combusting bamboo residues or converting bamboo residues into biochar and combusting natural gas) and end-of-life cases on the results, and coupled with Monte Carlo simulation to investigate the uncertainties and variabilities associated with the CLB life cycle stages. Our results show that, on the 1 m 3 CLB basis, the average life-cycle global warming potential (GWP) ranged from −318 to −947 kg CO 2 eq. Combusting the bamboo residues from production processes resulted in lower life-cycle GWP than utilizing bamboo residues to produce biochar and burning natural gas for energy supply. Increasing the recycling rate of CLB panels can further reduce the life-cycle GWP. The landfill decay of bamboo wastes is a significant carbon emission source, highlighting the importance of considering end-of-life cases for CLB panels. Trade-offs emerge among varied environmental impact categories when the scenarios are compared.",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1016/j.cesys.2024.100243",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-3",
+    "citations": 10,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R03",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Life cycle assessment of emerging mass timber product: Cross-laminated bamboo",
+    "openalex_year": 2024,
+    "openalex_authors": [
+      "Yinqiao Wang",
+      "Kai Lan"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://doi.org/10.1016/j.cesys.2024.100243",
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.1016/j.cesys.2024.100243",
+        "doi": "https://doi.org/10.1016/j.cesys.2024.100243",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.cesys.2024.100243",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210214064",
+          "display_name": "Cleaner Environmental Systems",
+          "issn_l": "2666-7894",
+          "issn": [
+            "2666-7894"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "anvur-scientific",
+            "cwts-core",
+            "doaj",
+            "dongbi-c",
+            "jufo-1",
+            "norway-1",
+            "oarl",
+            "poland-20",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cleaner Environmental Systems",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:dd4d46e8d2b54feabf6eacc4a130bdcd",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://doaj.org/article/dd4d46e8d2b54feabf6eacc4a130bdcd",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Cleaner Environmental Systems, Vol 15, Iss , Pp 100243- (2024)",
+        "raw_type": "article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Environmental impact of bamboo laminated flooring and bamboo scrimber flooring investigated via life cycle assessment",
+    "authors": "Yu, Xiang and Zeng, Lizhen and Zhang, Guofang and Wang, Hankun",
+    "author": [
+      {
+        "given": "Xiang",
+        "family": "Yu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Putian University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lizhen",
+        "family": "Zeng",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Putian University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guofang",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Fujian Agriculture and Forestry University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Hankun",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "International Center for Bamboo and Rattan"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Yu",
+    "year": 2019,
+    "doi": "10.15376/biores.14.4.9132-9145",
+    "journal": "BioResources",
+    "volume": "14",
+    "issue": "4",
+    "pages": "9132-9145",
+    "article_number": null,
+    "abstract": "Bamboo floorings are the most important industrial products in the bamboo sector. With the aim of providing a useful guide for the development of bamboo floorings, this study quantitatively assessed the environmental impacts of the two primary types of bamboo floorings, laminated flooring and scrimber flooring, using life cycle assessment (LCA) software SimaPro. The purpose of this study was to find out which type of bamboo flooring is more environmentally friendly through quantitatively analyzing the input and output of materials and energy during the whole life cycle of the two types of flooring products. The present study demonstrated that the majority of the environmental burdens were associated with the process of bamboo strip production for bamboo laminated flooring (59.3%), and the process of panel processing for bamboo scrimber floorings (56.9%). In terms of environmental loads, bamboo laminated flooring was considered more sustainable than bamboo scrimber flooring, as the total environmental loads of bamboo scrimber flooring was approximately 1.6 times that of bamboo laminated flooring.",
+    "abstract_source": "Crossref deposited abstract",
+    "url": "https://doi.org/10.15376/biores.14.4.9132-9145",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-4",
+    "citations": 20,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R04",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Environmental impact of bamboo laminated flooring and bamboo scrimber flooring investigated via life cycle assessment",
+    "openalex_year": 2019,
+    "openalex_authors": [
+      "Xiang Yu",
+      "Lizhen Zeng",
+      "Guofang Zhang",
+      "Hankun Wang"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bioresources.cnr.ncsu.edu/wp-content/uploads/2019/10/BioRes_14_4_9132_Yu_ZZW_Environm_Impact_Bamboo_Laminated_Floor_Scrimber_Floor_LCA_15480.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.15376/biores.14.4.9132-9145",
+        "doi": "https://doi.org/10.15376/biores.14.4.9132-9145",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15376/biores.14.4.9132-9145",
+        "pdf_url": "https://bioresources.cnr.ncsu.edu/wp-content/uploads/2019/10/BioRes_14_4_9132_Yu_ZZW_Environm_Impact_Bamboo_Laminated_Floor_Scrimber_Floor_LCA_15480.pdf",
+        "source": {
+          "id": "https://openalex.org/S74630304",
+          "display_name": "BioResources",
+          "issn_l": "1930-2126",
+          "issn": [
+            "1930-2126"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310315895",
+          "host_organization_name": "North Carolina State University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315895"
+          ],
+          "host_organization_lineage_names": [
+            "North Carolina State University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "BioResources",
+        "raw_type": "journal-article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Assessing the Environmental Impacts of Glued-Laminated Bamboo Based on a Life Cycle Assessment",
+    "authors": "Li, Jiqing and Yuan, Yuan and Guan, Xin",
+    "author": [
+      {
+        "given": "Jiqing",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yuan",
+        "family": "Yuan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xin",
+        "family": "Guan",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Li",
+    "year": 2016,
+    "doi": "10.15376/biores.11.1.1941-1950",
+    "journal": "BioResources",
+    "volume": "11",
+    "issue": "1",
+    "pages": "1941-1950",
+    "article_number": null,
+    "abstract": "The bamboo industry plays a significant strategic role in the world’s economy. Laminated bamboo, with increasing yearly yields, is the intermediate material for bamboo products such as furniture, floor board, and container floor. The trilaminar straight joint glued-laminated bamboo production line is the leading enterprise in Fujian Province, and it was used to conduct a load analysis of the data collected from a year’s production, based on the life cycle assessment system. The results show that the processing of glued-laminated bamboo contributes notably to the acidification potential, eutrophication potential, global warming potential, and photochemical ozone creation potential, whereas resource depletion and ozone depletion are affected by the urea-formaldehyde resin adhesive, among which the urea contributes the most. As for processing, carbonization, desiccation, and thermo-compression, these have the greatest impacts on the environmental load, with a total contribution rate of greater than 67%, as the main source for the power depletion is from the processing of fossil fuel. In addition, the oxynitride, phosphide, sulfide, aromatic hydrocarbon, etc ., that are discharged from the reaction intensify the eutrophication potential, the photochemical ozone creation potential, and the acidification potential.",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.15376/biores.11.1.1941-1950",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-5",
+    "citations": 8,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R05",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Assessing the Environmental Impacts of Glued-Laminated Bamboo Based on a Life Cycle Assessment",
+    "openalex_year": 2016,
+    "openalex_authors": [
+      "Jiqing Li",
+      "Yuan Yuan",
+      "Xin Guan"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://bioresources.cnr.ncsu.edu/BioRes_11/BioRes_11_1_1941_Li_YG_Assessing_Global%20Warming_Glued_Laminated_Bamboo_LCA_7996.pdf",
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.15376/biores.11.1.1941-1950",
+        "doi": "https://doi.org/10.15376/biores.11.1.1941-1950",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15376/biores.11.1.1941-1950",
+        "pdf_url": "https://bioresources.cnr.ncsu.edu/BioRes_11/BioRes_11_1_1941_Li_YG_Assessing_Global%20Warming_Glued_Laminated_Bamboo_LCA_7996.pdf",
+        "source": {
+          "id": "https://openalex.org/S74630304",
+          "display_name": "BioResources",
+          "issn_l": "1930-2126",
+          "issn": [
+            "1930-2126"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "listed_in": [
+            "cwts-core",
+            "doaj",
+            "dongbi-d",
+            "jufo-1",
+            "norway-1",
+            "poland-100",
+            "russia-white-list-1"
+          ],
+          "host_organization": "https://openalex.org/P4310315895",
+          "host_organization_name": "North Carolina State University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315895"
+          ],
+          "host_organization_lineage_names": [
+            "North Carolina State University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "BioResources",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:doaj.org/article:b4974a052c8b49cd825fa98a837632b4",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://doaj.org/article/b4974a052c8b49cd825fa98a837632b4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "BioResources, Vol 11, Iss 1, Pp 1941-1950 (2016)",
+        "raw_type": "article"
+      }
+    ],
+    "metadata_year_note": "",
+    "metadata_enrichment_source": "https://bioresources.cnr.ncsu.edu/resources/assessing-the-environmental-impacts-of-glued-laminated-bamboo-based-on-a-life-cycle-assessment/"
+  },
+  {
+    "title": "Industrial or Traditional Bamboo Construction? Comparative Life Cycle Assessment (LCA) of Bamboo-Based Buildings",
+    "authors": "Zea Escamilla, Edwin and Habert, Guillaume and Correal Daza, Juan Francisco and Archilla, Hector F. and Echeverry Fernández, Juan Sebastian and Trujillo, David",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8677-161X",
+        "authenticated-orcid": false,
+        "given": "Edwin",
+        "family": "Zea Escamilla",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Centre for Corporate Responsibility and Sustainability, University of Zürich, 8001 Zürich, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3533-7896",
+        "authenticated-orcid": false,
+        "given": "Guillaume",
+        "family": "Habert",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Institute of Construction Management, ETH Zürich, 8092 Zürich, Switzerland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6904-0081",
+        "authenticated-orcid": false,
+        "given": "Juan Francisco",
+        "family": "Correal Daza",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil and Environmental Engineering, Universidad de los Andes, 111711 Bogotá, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5455-8016",
+        "authenticated-orcid": false,
+        "given": "Hector F.",
+        "family": "Archilla",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Amphibia–BASE &amp; Visiting Research Fellow, University of Bath, Bath BA2 7AY, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Juan Sebastian",
+        "family": "Echeverry Fernández",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil and Environmental Engineering, Universidad de los Andes, 111711 Bogotá, Colombia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Trujillo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Energy, Construction and Environment, Coventry University, Coventry CV1 5FB, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Zea Escamilla",
+    "year": 2018,
+    "doi": "10.3390/su10093096",
+    "journal": "Sustainability",
+    "volume": "10",
+    "issue": "9",
+    "pages": "3096",
+    "article_number": null,
+    "abstract": "The past five decades have witnessed an unprecedented growth in population. This has led to an ever-growing housing demand. It has been proposed that the use of bio-based materials, and specifically bamboo, can help alleviate the housing demand in a sustainable manner. The present paper aims to assess the environmental impact caused by using four different construction materials (bamboo, brick, concrete hollow block, and engineered bamboo) in buildings. A comparative life cycle assessment (LCA) was carried out to measure the environmental impact of the different construction materials in the construction of single and multi-storey buildings. The LCA considered the extraction, production, transport, and use of the construction materials. The IPCC2013 evaluation method from the Intergovernmental Panel on Climate Change IPCC2013 was used for the calculations of CO2 emissions. The assessment was geographically located in Colombia, South America, and estimates the transport distances of the construction materials. The results show that transportation and reinforcing materials significantly contribute to the environmental impact, whereas the engineered bamboo construction system has the lowest environmental impact. The adoption of bamboo-based construction systems has a significant potential to support the regenerative development of regions where they could be used and might lead to long-lasting improvements to economies, environments, and livelihoods.",
+    "abstract_source": "Crossref deposited abstract",
+    "url": "https://doi.org/10.3390/su10093096",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-6",
+    "citations": 101,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R06",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Industrial or Traditional Bamboo Construction? Comparative Life Cycle Assessment (LCA) of Bamboo-Based Buildings",
+    "openalex_year": 2018,
+    "openalex_authors": [
+      "Edwin Byron Benigno Zea Escamilla",
+      "Guillaume Habert",
+      "Juan Francisco Correal",
+      "Hector F. Archila",
+      "Juan Sebastian Echeverry Fernández",
+      "David Trujillo"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/2071-1050/10/9/3096/pdf?version=1535635786",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      {
+        "id": "doi:10.3390/su10093096",
+        "doi": "https://doi.org/10.3390/su10093096",
+        "is_oa": true,
+        "landing_page_url": "http://dx.doi.org/10.3390/su10093096",
+        "pdf_url": "https://www.mdpi.com/2071-1050/10/9/3096/pdf?version=1535635786",
+        "source": {
+          "id": "https://openalex.org/S10134376",
+          "display_name": "Sustainability",
+          "issn_l": "2071-1050",
+          "issn": [
+            "2071-1050"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sustainability",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:uwe-repository.worktribe.com:862299",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://uwe-repository.worktribe.com/output/862299",
+        "pdf_url": "https://uwe-repository.worktribe.com/preview/862314/2018%20Zea%20et%20al.Industrial%20or%20Traditional%20Bamboo%20Construction%20-LCA%20Bamboo%20Buildings.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401464",
+          "display_name": "UWE Research Repository (UWE Bristol)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I178535277",
+          "host_organization_name": "University of the West of England",
+          "host_organization_lineage": [
+            "https://openalex.org/I178535277"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": null,
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "pmh:oai:pure.atira.dk:openaire/96659d1d-7700-478b-9550-6d4a165e6108",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://pureportal.coventry.ac.uk/en/publications/96659d1d-7700-478b-9550-6d4a165e6108",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402411",
+          "display_name": "Pure (Coventry University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I73417466",
+          "host_organization_name": "Coventry University",
+          "host_organization_lineage": [
+            "https://openalex.org/I73417466"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Zea Escamilla, E, Habert, G, correal daza, J F, Archila Santos, H, Echeverry Fernández, J S & Trujillo, D 2018, 'Industrial or Traditional Bamboo Construction? Comparative Life Cycle Assessment (LCA) of Bamboo-Based Buildings', Sustainability, vol. 10, no. 9, 3096. https://doi.org/10.3390/su10093096",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:www.research-collection.ethz.ch:20.500.11850/286148",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/20.500.11850/286148",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306402302",
+          "display_name": "Repository for Publications and Research Data (ETH Zurich)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I35440088",
+          "host_organization_name": "ETH Zurich",
+          "host_organization_lineage": [
+            "https://openalex.org/I35440088"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sustainability, 10 (9)",
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      {
+        "id": "pmh:oai:RePEc:gam:jsusta:v:10:y:2018:i:9:p:3096-:d:166731",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.mdpi.com/2071-1050/10/9/3096/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article"
+      },
+      {
+        "id": "pmh:oai:www.zora.uzh.ch:20.500.14742/143507",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.zora.uzh.ch/handle/20.500.14742/143507",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401281",
+          "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I202697423",
+          "host_organization_name": "University of Zurich",
+          "host_organization_lineage": [
+            "https://openalex.org/I202697423"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Zea Escamilla, E., Habert, G., Correal Daza, J. F., Archilla, H. F., Férnandez, J. S. E., & Trujillo, D. (2018). Industrial or Traditional Bamboo Construction? Comparative Life Cycle Assessment (LCA) of Bamboo-Based Buildings. Sustainability, 10, 3096. https://doi.org/10.3390/su10093096",
+        "raw_type": "Journal Article"
+      },
+      {
+        "id": "doi:10.3929/ethz-b-000286148",
+        "doi": "https://doi.org/10.3929/ethz-b-000286148",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3929/ethz-b-000286148",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7407051236",
+          "display_name": "ETH Zürich Research Collection",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article-journal"
+      },
+      {
+        "id": "doi:10.5167/uzh-153510",
+        "doi": "https://doi.org/10.5167/uzh-153510",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.5167/uzh-153510",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401281",
+          "display_name": "Zurich Open Repository and Archive (University of Zurich)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I202697423",
+          "host_organization_name": "University of Zurich",
+          "host_organization_lineage": [
+            "https://openalex.org/I202697423"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "JournalArticle"
+      },
+      {
+        "id": "pmh:oai:eprints.uwe.ac.uk:39722",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "http://eprints.uwe.ac.uk/39722/1/2018%2C%20Zea%20et%20al.%2CIndustrial%20or%20Traditional%20Bamboo%20Construction%20-LCA%20Bamboo%20Buildings.pdf",
+        "pdf_url": "http://eprints.uwe.ac.uk/39722/1/2018%2C%20Zea%20et%20al.%2CIndustrial%20or%20Traditional%20Bamboo%20Construction%20-LCA%20Bamboo%20Buildings.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306401464",
+          "display_name": "UWE Research Repository (UWE Bristol)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I178535277",
+          "host_organization_name": "University of the West of England",
+          "host_organization_lineage": [
+            "https://openalex.org/I178535277"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Carbon sequestration in LCA, a proposal for a new approach based on the global carbon cycle; cases on wood and on bamboo",
+    "authors": "Vogtländer, Joost G. and van der Velden, Natascha M. and van der Lugt, Pablo",
+    "author": [
+      {
+        "given": "Joost G.",
+        "family": "Vogtländer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Natascha M.",
+        "family": "van der Velden",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Pablo",
+        "family": "van der Lugt",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Vogtländer",
+    "year": 2014,
+    "doi": "10.1007/s11367-013-0629-6",
+    "journal": "The International Journal of Life Cycle Assessment",
+    "volume": "19",
+    "issue": "1",
+    "pages": "13-23",
+    "article_number": null,
+    "abstract": "",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1007/s11367-013-0629-6",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-7",
+    "citations": 98,
+    "reading_status": "metadata_only",
+    "correction_links": [],
+    "id": "R07",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Carbon sequestration in LCA, a proposal for a new approach based on the global carbon cycle; cases on wood and on bamboo",
+    "openalex_year": 2013,
+    "openalex_authors": [
+      "Joost G. Vogtlander",
+      "Natascha M. van der Velden",
+      "Pablo van der Lugt"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.1007/s11367-013-0629-6",
+        "doi": "https://doi.org/10.1007/s11367-013-0629-6",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11367-013-0629-6",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S108239708",
+          "display_name": "The International Journal of Life Cycle Assessment",
+          "issn_l": "0948-3349",
+          "issn": [
+            "0948-3349",
+            "1614-7502"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The International Journal of Life Cycle Assessment",
+        "raw_type": "journal-article"
+      }
+    ],
+    "metadata_year_note": "Crossref正式卷期2014，OpenAlex网络发表2013；Springer和TU Delft确认2014卷期，保留两者。"
+  },
+  {
+    "title": "Comparative life cycle assessment of cross laminated timber building and concrete building with special focus on biogenic carbon",
+    "authors": "Andersen, Julie Hansted and Rasmussen, Nana Lin and Ryberg, Morten Walbech",
+    "author": [
+      {
+        "given": "Julie Hansted",
+        "family": "Andersen",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nana Lin",
+        "family": "Rasmussen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Morten Walbech",
+        "family": "Ryberg",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Andersen",
+    "year": 2022,
+    "doi": "10.1016/j.enbuild.2021.111604",
+    "journal": "Energy and Buildings",
+    "volume": "254",
+    "issue": null,
+    "pages": "111604",
+    "article_number": "111604",
+    "abstract": "This study conducted a consequential Life Cycle Assessment (LCA) on two similar mid-rise apartment buildings applying either concrete or cross laminated timber (CLT) as the main structural material. The study further investigated inclusion of biogenic carbon and how this affects environmental impacts related to Global warming. Thus, two assessment scenarios were applied: A Base scenario, without accounting for biogenic carbon and a Biogenic carbon scenario that include a GWPbio factor to account for the use of biogenic carbon. The CLT building had the lowest impact score in 11 of 18 impact categories including Global warming. Operational energy use was the main contributor to the total impact with some variation across impact scores, but closely followed by impacts embodied in materials (incl. End-of-Life). An evaluation of the potential forest transformations required for fulfilling future projections for new building construction in 2060 showed that about 3% of current global forest area would be needed. This share was essentially independent of the selected building material as the main driver for forest transformation was found to be energy use during building operation. Thus, focus should primarily be on reducing deforestation related to energy generation rather than deforestation from production of building materials.",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1016/j.enbuild.2021.111604",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-8",
+    "citations": 124,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R08",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Comparative life cycle assessment of cross laminated timber building and concrete building with special focus on biogenic carbon",
+    "openalex_year": 2021,
+    "openalex_authors": [
+      "Julie Hansted Andersen",
+      "Nana Lin Rasmussen",
+      "Morten  Walbech Ryberg"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S0378778821008884/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      {
+        "id": "doi:10.1016/j.enbuild.2021.111604",
+        "doi": "https://doi.org/10.1016/j.enbuild.2021.111604",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.enbuild.2021.111604",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0378778821008884/pdf",
+        "source": {
+          "id": "https://openalex.org/S6846437",
+          "display_name": "Energy and Buildings",
+          "issn_l": "0378-7788",
+          "issn": [
+            "0378-7788",
+            "1872-6178"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-3",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy and Buildings",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:pure.atira.dk:publications/7a280304-a868-4c37-b8b9-390285375aa5",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://orbit.dtu.dk/en/publications/7a280304-a868-4c37-b8b9-390285375aa5",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400705",
+          "display_name": "Technical University of Denmark, DTU Orbit (Technical University of Denmark, DTU)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I96673099",
+          "host_organization_name": "Technical University of Denmark",
+          "host_organization_lineage": [
+            "https://openalex.org/I96673099"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Andersen , J H , Rasmussen , N L &amp; Ryberg , M W 2022 , ' Comparative life cycle assessment of cross laminated timber building and concrete building with special focus on biogenic carbon ' , Energy and Buildings , vol. 254 , 111604 . https://doi.org/10.1016/j.enbuild.2021.111604",
+        "raw_type": "article"
+      }
+    ],
+    "metadata_year_note": "Crossref/DTU正式卷期2022，OpenAlex网络发表2021；采用2022，DOI含2021并非错误。"
+  },
+  {
+    "title": "Quantitative study of life cycle carbon emissions from 7 timber buildings in China",
+    "authors": "Yang, Xinyan and Zhang, Shicong and Wang, Ke",
+    "author": [
+      {
+        "given": "Xinyan",
+        "family": "Yang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shicong",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ke",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Yang",
+    "year": 2021,
+    "doi": "10.1007/s11367-021-01960-8",
+    "journal": "The International Journal of Life Cycle Assessment",
+    "volume": "26",
+    "issue": "9",
+    "pages": "1721-1734",
+    "article_number": null,
+    "abstract": "",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1007/s11367-021-01960-8",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-9",
+    "citations": 54,
+    "reading_status": "metadata_only",
+    "correction_links": [],
+    "id": "R09",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Quantitative study of life cycle carbon emissions from 7 timber buildings in China",
+    "openalex_year": 2021,
+    "openalex_authors": [
+      "Xinyan Yang",
+      "Shicong Zhang",
+      "Ke Wang"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": false,
+      "oa_status": "closed",
+      "oa_url": null,
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.1007/s11367-021-01960-8",
+        "doi": "https://doi.org/10.1007/s11367-021-01960-8",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s11367-021-01960-8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S108239708",
+          "display_name": "The International Journal of Life Cycle Assessment",
+          "issn_l": "0948-3349",
+          "issn": [
+            "0948-3349",
+            "1614-7502"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The International Journal of Life Cycle Assessment",
+        "raw_type": "journal-article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Life Cycle Assessment and Cost Analysis of Mid-Rise Mass Timber vs. Concrete Buildings in Australia",
+    "authors": "Jolly, Riley and Fairweather, Holly and Rayburg, Scott and Rodwell, John",
+    "author": [
+      {
+        "given": "Riley",
+        "family": "Jolly",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering, Swinburne University of Technology, Hawthorn, VIC 3122, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Holly",
+        "family": "Fairweather",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering, Swinburne University of Technology, Hawthorn, VIC 3122, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Scott",
+        "family": "Rayburg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil Engineering, Swinburne University of Technology, Hawthorn, VIC 3122, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1682-0719",
+        "authenticated-orcid": false,
+        "given": "John",
+        "family": "Rodwell",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Management & Marketing, Swinburne University of Technology, Hawthorn, VIC 3122, Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Jolly",
+    "year": 2024,
+    "doi": "10.3390/su16156465",
+    "journal": "Sustainability",
+    "volume": "16",
+    "issue": "15",
+    "pages": "6465",
+    "article_number": null,
+    "abstract": "The building and construction industry is one of the largest greenhouse gas producers, accounting for 39% of global emissions, most of these coming from concrete and steel. Mass timber construction (MTC) potentially offers a sustainable alternative to these traditional building materials. However, more research is needed to establish the sustainability credentials of MTC relative to traditional concrete and steel structures, especially for mid-rise structures. The aim of this study is to evaluate the environmental and cost performance of mid-rise mass timber buildings by conducting a life cycle assessment (LCA). The LCA uses a cradle-to-cradle approach, considering the global warming potential (GWP), freshwater use (FW), and total use of non-renewable primary energy resources (PENRT). Results indicated that mid-rise mass timber buildings have significantly lower impacts than concrete buildings, with their GWP approximately 30 times lower, FW about 20 times lower, and PENRT reaching a negative value. Additionally, the cost analysis revealed that MTC buildings can be cheaper to build and thus possibly more profitable than concrete buildings. These findings establish mass timber as a viable and sustainable option for the future of Australia’s construction industry.",
+    "abstract_source": "Crossref deposited abstract",
+    "url": "https://doi.org/10.3390/su16156465",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-10",
+    "citations": 14,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R10",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Life Cycle Assessment and Cost Analysis of Mid-Rise Mass Timber vs. Concrete Buildings in Australia",
+    "openalex_year": 2024,
+    "openalex_authors": [
+      "Riley Jolly",
+      "Holly Fairweather",
+      "Scott Rayburg",
+      "John Rodwell"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/2071-1050/16/15/6465/pdf?version=1722224338",
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.3390/su16156465",
+        "doi": "https://doi.org/10.3390/su16156465",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/su16156465",
+        "pdf_url": "https://www.mdpi.com/2071-1050/16/15/6465/pdf?version=1722224338",
+        "source": {
+          "id": "https://openalex.org/S10134376",
+          "display_name": "Sustainability",
+          "issn_l": "2071-1050",
+          "issn": [
+            "2071-1050"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sustainability",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:RePEc:gam:jsusta:v:16:y:2024:i:15:p:6465-:d:1444828",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.mdpi.com/2071-1050/16/15/6465/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Comparative Cradle-to-Grave Life Cycle Assessment of Low and Mid-Rise Mass Timber Buildings with Equivalent Structural Steel Alternatives",
+    "authors": "Allan, Kevin and Phillips, Adam R.",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0589-9508",
+        "authenticated-orcid": false,
+        "given": "Kevin",
+        "family": "Allan",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Civil and Environmental Engineering, Washington State University, Pullman, WA 99164, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2486-6039",
+        "authenticated-orcid": false,
+        "given": "Adam R.",
+        "family": "Phillips",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil and Environmental Engineering, Washington State University, Pullman, WA 99164, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Allan",
+    "year": 2021,
+    "doi": "10.3390/su13063401",
+    "journal": "Sustainability",
+    "volume": "13",
+    "issue": "6",
+    "pages": "3401",
+    "article_number": null,
+    "abstract": "The objective of this paper was to quantify and compare the environmental impacts associated with alternative designs of typical North American low and mid-rise buildings. Two scenarios were considered: a traditional structural steel frame or an all-wood mass timber design, utilizing engineered wood products for both gravity and lateral load resistance. The boundary of the quantitative analysis was cradle-to-grave with considerations taken to discuss end-of-life and material reuse scenarios. The TRACI methodology was followed to conduct a Life Cycle Impact Assessment (LCIA) analysis that translates building quantities to environmental impact indicators using the Athena Impact Estimator for Buildings Life Cycle analysis software tool and Athena’s Life Cycle Inventory database. The results of the analysis show that mass timber buildings have an advantage with respect to several environmental impact categories, including eutrophication potential, human health particulate, and global warming potential where a 31% to 41% reduction was found from mass timber to steel designs, neglecting potential carbon sequestration benefits from the timber products. However, it was also found that the steel buildings have a lower impact with respect to the environmental impact categories of smog potential, acidification potential, and ozone depletion potential, where a 48% to 58% reduction was found from the steel to the mass timber building designs.",
+    "abstract_source": "Crossref deposited abstract",
+    "url": "https://doi.org/10.3390/su13063401",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-11",
+    "citations": 78,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R11",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Comparative Cradle-to-Grave Life Cycle Assessment of Low and Mid-Rise Mass Timber Buildings with Equivalent Structural Steel Alternatives",
+    "openalex_year": 2021,
+    "openalex_authors": [
+      "Kevin Allan",
+      "Adam R. Phillips"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "gold",
+      "oa_url": "https://www.mdpi.com/2071-1050/13/6/3401/pdf?version=1621603108",
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.3390/su13063401",
+        "doi": "https://doi.org/10.3390/su13063401",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/su13063401",
+        "pdf_url": "https://www.mdpi.com/2071-1050/13/6/3401/pdf?version=1621603108",
+        "source": {
+          "id": "https://openalex.org/S10134376",
+          "display_name": "Sustainability",
+          "issn_l": "2071-1050",
+          "issn": [
+            "2071-1050"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "poland-100",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Sustainability",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:RePEc:gam:jsusta:v:13:y:2021:i:6:p:3401-:d:520224",
+        "doi": null,
+        "is_oa": false,
+        "landing_page_url": "https://www.mdpi.com/2071-1050/13/6/3401/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401271",
+          "display_name": "RePEc: Research Papers in Economics",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I77793887",
+          "host_organization_name": "Federal Reserve Bank of St. Louis",
+          "host_organization_lineage": [
+            "https://openalex.org/I77793887"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "The embodied carbon of mass timber and concrete buildings in Australia: An uncertainty analysis",
+    "authors": "Robati, Mehdi and Oldfield, Philip",
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1464-845X",
+        "authenticated-orcid": false,
+        "given": "Mehdi",
+        "family": "Robati",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Philip",
+        "family": "Oldfield",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Robati",
+    "year": 2022,
+    "doi": "10.1016/j.buildenv.2022.108944",
+    "journal": "Building and Environment",
+    "volume": "214",
+    "issue": null,
+    "pages": "108944",
+    "article_number": "108944",
+    "abstract": "",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1016/j.buildenv.2022.108944",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-12",
+    "citations": 78,
+    "reading_status": "metadata_only",
+    "correction_links": [],
+    "id": "R12",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "The embodied carbon of mass timber and concrete buildings in Australia: An uncertainty analysis",
+    "openalex_year": 2022,
+    "openalex_authors": [
+      "Mehdi Robati",
+      "Philip Oldfield"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "green",
+      "oa_url": "http://hdl.handle.net/1959.4/unsworks_79933",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      {
+        "id": "doi:10.1016/j.buildenv.2022.108944",
+        "doi": "https://doi.org/10.1016/j.buildenv.2022.108944",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.buildenv.2022.108944",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S56464651",
+          "display_name": "Building and Environment",
+          "issn_l": "0360-1323",
+          "issn": [
+            "0360-1323",
+            "1873-684X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "norway-2",
+            "poland-200",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Building and Environment",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:unsworks.library.unsw.edu.au:1959.4/unsworks_79933",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "http://hdl.handle.net/1959.4/unsworks_79933",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401737",
+          "display_name": "UNSWorks (University of New South Wales, Sydney, Australia)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I40053085",
+          "host_organization_name": "Australian Defence Force Academy",
+          "host_organization_lineage": [
+            "https://openalex.org/I40053085"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Building and Environment, 214, 108944",
+        "raw_type": "http://purl.org/coar/resource_type/c_6501"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Engineered bamboo for structural applications",
+    "authors": "Sharma, Bhavna and Gatóo, Ana and Bock, Maximilian and Ramage, Michael",
+    "author": [
+      {
+        "given": "Bhavna",
+        "family": "Sharma",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ana",
+        "family": "Gatóo",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Maximilian",
+        "family": "Bock",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michael",
+        "family": "Ramage",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Sharma",
+    "year": 2015,
+    "doi": "10.1016/j.conbuildmat.2015.01.077",
+    "journal": "Construction and Building Materials",
+    "volume": "81",
+    "issue": null,
+    "pages": "66-73",
+    "article_number": null,
+    "abstract": "Bamboo is a rapidly renewable material that has many applications in construction. Engineered bamboo products result from processing the raw bamboo culm into a laminated composite, similar to glue-laminated timber products. These products allow the material to be used in standardised sections and have less inherent variability than the natural material. The present work investigates the mechanical properties of two types of commercially available products – bamboo scrimber and laminated bamboo sheets – and compares these to timber and engineered timber products. It is shown that engineered bamboo products have properties that are comparable to or surpass that of timber and timber-based products. Potential limitations to use in structural design are also discussed. The study contributes to a growing body of research on engineered bamboo and presents areas in which further investigation is needed.",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1016/j.conbuildmat.2015.01.077",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-13",
+    "citations": 615,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R13",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Engineered bamboo for structural applications",
+    "openalex_year": 2015,
+    "openalex_authors": [
+      "Bhavna Sharma",
+      "Ana Gatóo",
+      "Maximilian Bock",
+      "Michael H. Ramage"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S0950061815001117/pdf",
+      "any_repository_has_fulltext": true
+    },
+    "locations": [
+      {
+        "id": "doi:10.1016/j.conbuildmat.2015.01.077",
+        "doi": "https://doi.org/10.1016/j.conbuildmat.2015.01.077",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.conbuildmat.2015.01.077",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0950061815001117/pdf",
+        "source": {
+          "id": "https://openalex.org/S29980478",
+          "display_name": "Construction and Building Materials",
+          "issn_l": "0950-0618",
+          "issn": [
+            "0950-0618",
+            "1879-0526"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-1",
+            "ki-jl-1",
+            "norway-2",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Construction and Building Materials",
+        "raw_type": "journal-article"
+      },
+      {
+        "id": "pmh:oai:www.repository.cam.ac.uk:1810/247518",
+        "doi": null,
+        "is_oa": true,
+        "landing_page_url": "https://www.repository.cam.ac.uk/handle/1810/247518",
+        "pdf_url": "https://www.repository.cam.ac.uk/bitstreams/63a99e56-43fe-461b-a1e1-d5f617e83ebb/download",
+        "source": {
+          "id": "https://openalex.org/S4306401777",
+          "display_name": "Apollo (University of Cambridge)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "listed_in": [],
+          "host_organization": "https://openalex.org/I241749",
+          "host_organization_name": "University of Cambridge",
+          "host_organization_lineage": [
+            "https://openalex.org/I241749"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "title": "Carbon footprint and climate mitigation potential of bamboo products in China",
+    "authors": "Zhang, Meng and Zhou, Guomo and Gu, Lei",
+    "author": [
+      {
+        "given": "Meng",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Guomo",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lei",
+        "family": "Gu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "first_author": "Zhang",
+    "year": 2025,
+    "doi": "10.1016/j.eiar.2025.107958",
+    "journal": "Environmental Impact Assessment Review",
+    "volume": "114",
+    "issue": null,
+    "pages": "107958",
+    "article_number": "107958",
+    "abstract": "Evaluating the climate mitigation capacity of bamboo products is critical for sustainable material transitions. This study assesses the carbon footprint and greenhouse gas (GHG) mitigation potential of bamboo products in China, examining their role as substitutes for carbon-intensive materials. Through an integrated life cycle assessment (LCA) and scenario analysis, we present the first comprehensive evaluation of bamboo products' national carbon footprint and their emission reduction through bamboo as a substitute (ERBS). Results show that 60 bamboo products analyzed from cradle to grave (excluding the use phase) exhibit carbon footprints ranging from −0.55 to 4.02 kg CO 2 e/kg, with processing and substances input during bamboo product production identified as emission hotspots. Between 2007 and 2022, bamboo products' national carbon storage offset 10.16 % of their lifecycle emissions, resulting in net emissions of 73.71 Mt. CO 2 e. As a sustainable substitute to conventional materials like plastic, concrete, and steel, bamboo products mitigated 280 Mt. CO 2 e emissions, achieving climate benefits nearly 3.9 times greater than their operational emissions. In a business-as-usual (BAU) scenario, ERBS is projected to reach 1.38–2.29 Gt CO 2 e between 2023 and 2050. However, implementing energy system decarbonization with efficiency improvements will reduce ERBS by 18–45 %. This carbon footprint dataset and ERBS framework provide empirical support for bamboo as a viable alternative to carbon-intensive materials, informing policy development to enhance climate mitigation strategies and foster sustainable economic development in bamboo value chains.",
+    "abstract_source": "OpenAlex inverted index",
+    "url": "https://doi.org/10.1016/j.eiar.2025.107958",
+    "type": "journal-article",
+    "source": "crossref",
+    "query_id": "verify-14",
+    "citations": 30,
+    "reading_status": "abstract_only",
+    "correction_links": [],
+    "id": "R14",
+    "crossref_identity_verified": true,
+    "crossref_title_matches_search": true,
+    "openalex_identity_verified": true,
+    "openalex_title": "Carbon footprint and climate mitigation potential of bamboo products in China",
+    "openalex_year": 2025,
+    "openalex_authors": [
+      "Meng Zhang",
+      "Guomo Zhou",
+      "Lei Gu"
+    ],
+    "is_retracted_openalex": false,
+    "open_access": {
+      "is_oa": true,
+      "oa_status": "hybrid",
+      "oa_url": "https://doi.org/10.1016/j.eiar.2025.107958",
+      "any_repository_has_fulltext": false
+    },
+    "locations": [
+      {
+        "id": "doi:10.1016/j.eiar.2025.107958",
+        "doi": "https://doi.org/10.1016/j.eiar.2025.107958",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.eiar.2025.107958",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S167829764",
+          "display_name": "Environmental Impact Assessment Review",
+          "issn_l": "0195-9255",
+          "issn": [
+            "0195-9255",
+            "1873-6432"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "listed_in": [
+            "anvur-class-a",
+            "anvur-scientific",
+            "cwts-core",
+            "dongbi-b",
+            "jufo-2",
+            "norway-1",
+            "poland-140",
+            "russia-white-list-1",
+            "vabb-shw"
+          ],
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Environmental Impact Assessment Review",
+        "raw_type": "journal-article"
+      }
+    ],
+    "metadata_year_note": ""
+  },
+  {
+    "id": "R15",
+    "title": "竹结构住宅全生命周期碳排放分析",
+    "authors": "祝飞飞 and 余仁民 and 郑维 and 龚迎春 and 陶鹏 and 高艳",
+    "author": [
+      {
+        "literal": "祝飞飞"
+      },
+      {
+        "literal": "余仁民"
+      },
+      {
+        "literal": "郑维"
+      },
+      {
+        "literal": "龚迎春"
+      },
+      {
+        "literal": "陶鹏"
+      },
+      {
+        "literal": "高艳"
+      }
+    ],
+    "year": 2024,
+    "journal": "木材科学与技术",
+    "volume": "38",
+    "issue": "2",
+    "pages": "43-50",
+    "doi": "10.12326/j.2096-9694.2023183",
+    "publisher_identity_verified": true,
+    "crossref_identity_verified": false,
+    "verification_note": "DOI Handle注册成功；Crossref404，使用期刊官网和PDF首页核对全部6位作者、题名、卷期页码。"
+  }
+]

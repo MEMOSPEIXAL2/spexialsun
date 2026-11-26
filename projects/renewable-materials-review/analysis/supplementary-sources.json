@@ -1,0 +1,50 @@
+[
+  {
+    "id": "R07",
+    "url": "https://link.springer.com/article/10.1007/s11367-013-0629-6",
+    "evidence": "摘要及正式卷期年",
+    "access_date": "2026-11-26"
+  },
+  {
+    "id": "R08",
+    "url": "https://orbit.dtu.dk/en/publications/comparative-life-cycle-assessment-of-cross-laminated-timber-build/",
+    "evidence": "摘要及作者/年份",
+    "access_date": "2026-11-26"
+  },
+  {
+    "id": "R09",
+    "url": "https://link.springer.com/article/10.1007/s11367-021-01960-8",
+    "evidence": "结构化摘要",
+    "access_date": "2026-11-26"
+  },
+  {
+    "id": "R12",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0360132322001871",
+    "evidence": "搜索工具返回公开摘要片段；直接打开403",
+    "access_date": "2026-11-26"
+  },
+  {
+    "id": "R13",
+    "url": "https://www.repository.cam.ac.uk/bitstream/1810/247518/1/Sharma%20et%20al%202015%20Elsevier.pdf",
+    "evidence": "完整PDF8页已读",
+    "access_date": "2026-11-26"
+  },
+  {
+    "id": "R15",
+    "url": "https://www.mckx.net/zh/article/doi/10.12326/j.2096-9694.2023183/",
+    "evidence": "期刊原始记录",
+    "access_date": "2026-11-26"
+  },
+  {
+    "id": "R15",
+    "url": "https://www.mckx.net/rc-pub/front/front-article/download/57881245/lowqualitypdf/Life-Cycle%20Carbon%20Emission%20Assessment%20of%20Bamboo%20House.pdf",
+    "evidence": "完整PDF8页已读",
+    "access_date": "2026-11-26"
+  },
+  {
+    "id": "R05",
+    "url": "https://bioresources.cnr.ncsu.edu/resources/assessing-the-environmental-impacts-of-glued-laminated-bamboo-based-on-a-life-cycle-assessment/",
+    "evidence": "补齐缺失页码1941–1950，期刊原始题录与OpenAlex biblio一致",
+    "access_date": "2026-11-26"
+  }
+]

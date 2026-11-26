@@ -1,5 +1,7 @@
 # 项目工作规则
 
+- 文献综述任务读取 `.agents/skills/literature-review/SKILL.md`；使用指南见 `docs/literature-review-guide.md`。技能选择器未显示时可按该路径显式读取，不据文件存在声称已验证宿主自动选择。
+
 - 默认使用中文说明结果。先读取 README.md、docs/context.md 和相关项目文档，再检查 Git 状态；保留现有成果和未提交修改。
 - 在独立分支工作，不强推、不重写历史、不覆盖他人修改、不直接更新受保护分支。提交前检查暂存差异。
 - 从仓库根目录运行 `bash scripts/bootstrap.sh`；这是离线、无第三方依赖的基础验证入口。

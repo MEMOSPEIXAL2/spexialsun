@@ -1,0 +1,10 @@
+{
+  "checked_on": "2026-11-26",
+  "codex_documentation": "https://learn.chatgpt.com/docs/build-skills",
+  "documentation_snapshot_sha256": "95b5ef4d0581d9eeeee342ef4718e77ed7574fe9c61ae28e1c2bffa4c6bdb411",
+  "official_catalog": "https://github.com/openai/skills",
+  "catalog_tree_sha": "49f948faa9258a0c61caceaf225e179651397431",
+  "matching_paths": [
+    "skills/.curated/notion-research-documentation/SKILL.md"
+  ]
+}

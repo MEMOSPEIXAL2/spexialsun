@@ -1,6 +1,8 @@
 # spexialsun
 
-建筑设计、科学研究与程序开发的长期工作基础仓库。当前仅提供环境验证、项目 Skill 和持久上下文约定；尚无业务项目或第三方依赖。
+建筑设计、科学研究与程序开发的长期工作基础仓库。提供环境验证、项目 Skill、持久上下文，以及已安装的文献综述技能与竹木低碳建筑材料试验。
+
+文献综述入口：[使用指南](docs/literature-review-guide.md)、[选型与安装报告](docs/reports/literature-review-install/report.zh-CN.md)、[15篇文献真实试验](projects/renewable-materials-review/review.md)。科研依赖隔离安装，见 requirements-literature.lock；基础bootstrap仍离线且不依赖这些包。
 
 ## 开始使用
 
@@ -12,7 +14,7 @@ cd spexialsun
 bash scripts/bootstrap.sh
 ```
 
-最低要求：Git、Bash、Python 3.10+。Node.js 按未来项目需要使用，目前无需 npm install 或 pip install。
+基础检查最低要求：Git、Bash、Python 3.10+。仅做基础检查无需安装依赖；文献DOI核验按使用指南建立.venv并同步锁定包，勿全局安装。
 
 共享 Skill 位于 `.agents/skills`，从本仓库目录启动 Codex。桌面 Skill 选择器、CLI 的 `/skills` 或 `$cloud-smoke` 需要宿主实际发现后才能使用。云端未显示时先切换到本仓库，再重启/新建会话并检查，不要将读取文件等同于宿主发现。
 

@@ -1,0 +1,44 @@
+{
+  "full_name": "Zsun79/LitReviewSkill",
+  "html_url": "https://github.com/Zsun79/LitReviewSkill",
+  "stargazers_count": 31,
+  "forks_count": 5,
+  "open_issues_count": 0,
+  "pushed_at": "2026-06-08T03:15:48Z",
+  "updated_at": "2026-11-24T12:17:59Z",
+  "created_at": "2026-04-23T05:44:21Z",
+  "license": null,
+  "archived": false,
+  "commit": "a53cd419352e4dd05958f67340fde3642d84abc3",
+  "skill_path": "skills/write-literature-review",
+  "retrieved_at": "2026-11-26T09:39:19.136341+00:00",
+  "recent_skill_commits": [
+    {
+      "sha": "90c2f40a7eca78b27033ea4d8f3d85cf76434656",
+      "date": "2026-06-08T02:58:59Z",
+      "message": "Add citation format support\n\nNow the skill can supported specific citation formats.",
+      "url": "https://github.com/Zsun79/LitReviewSkill/commit/90c2f40a7eca78b27033ea4d8f3d85cf76434656"
+    },
+    {
+      "sha": "2e589e07f241040c78a41dbc9c0fd3aac29f3fd2",
+      "date": "2026-04-24T05:36:05Z",
+      "message": "Init",
+      "url": "https://github.com/Zsun79/LitReviewSkill/commit/2e589e07f241040c78a41dbc9c0fd3aac29f3fd2"
+    },
+    {
+      "sha": "11c89b89fa793aa85fffb62fd8833bef6074c9d8",
+      "date": "2026-04-23T08:39:54Z",
+      "message": "Init",
+      "url": "https://github.com/Zsun79/LitReviewSkill/commit/11c89b89fa793aa85fffb62fd8833bef6074c9d8"
+    }
+  ],
+  "recent_issues": [
+    {
+      "number": 1,
+      "title": "Add citation format support",
+      "state": "closed",
+      "comments": 0,
+      "url": "https://github.com/Zsun79/LitReviewSkill/pull/1"
+    }
+  ]
+}

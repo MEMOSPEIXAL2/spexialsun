@@ -1,0 +1,148 @@
+{
+  "full_name": "bytedance/deer-flow",
+  "html_url": "https://github.com/bytedance/deer-flow",
+  "stargazers_count": 85839,
+  "forks_count": 12116,
+  "open_issues_count": 975,
+  "pushed_at": "2026-11-26T08:05:09Z",
+  "updated_at": "2026-11-26T09:00:07Z",
+  "created_at": "2025-05-07T02:50:19Z",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "archived": false,
+  "commit": "9a1e1c43981324917c81727da2e8be280683c807",
+  "skill_path": "skills/public/systematic-literature-review",
+  "retrieved_at": "2026-11-26T09:38:47.788802+00:00",
+  "recent_skill_commits": [
+    {
+      "sha": "aaca3eeaebaafe7c4ca0147f83e9738655a39b2d",
+      "date": "2026-11-08T14:00:23Z",
+      "message": "refactor(agent): ground runtime decisions in structured evidence (#7986)\n\n* refactor(agent): ground runtime decisions in structured evidence\n\nUse producer status and structured errors for tool recovery, preserve memory context without lexical confirmation, and remove predetermined receipt and skill conclusions.\n\nRequire explicit MCP discovery and authenticated schedule trial actions. Preserve authorization, ownership, isolation, and bounded execution; update documentation and regression coverage.\n\n* test(sandbox): expect read_file initialization error callback\n\n* fix(agent): address evidence review follow-ups\n\n* fix(agent): preserve retry budgets for OpenAI transport errors\n\n* fix(agent): expose tool execution status in model requests\n\nProject validated execution metadata and exact tool text into request-only JSON so status survives provider serialization. Preserve stored results and receipt hashes, cover SDK and graph boundaries, and migrate replay input hashes without changing recorded responses.\n\n---------\n\nCo-authored-by: Willem Jiang <willem.jiang@gmail.com>",
+      "url": "https://github.com/bytedance/deer-flow/commit/aaca3eeaebaafe7c4ca0147f83e9738655a39b2d"
+    },
+    {
+      "sha": "654354c624bfc84ecbb60f1394ca4806590bcbdf",
+      "date": "2026-04-10T10:02:45Z",
+      "message": "test(skills): add evaluation + trigger analysis for systematic-literature-review (#2061)\n\n* test(skills): add trigger eval set for systematic-literature-review skill\n\n20 eval queries (10 should-trigger, 10 should-not-trigger) for use with\nskill-creator's run_eval.py. Includes real-world SLR queries contributed\nby @VANDRANKI (issue #1862 author) and edge cases for routing\ndisambiguation with academic-paper-review.\n\n* test(skills): add grader expectations for SLR skill evaluation\n\n5 eval cases with 39 expectations covering:\n- Standard SLR flow (APA/BibTeX/IEEE format selection)\n- Keyword extraction and search behavior\n- Subagent dispatch for metadata extraction\n- Report structure (themes, convergences, gaps, per-paper annotations)\n- Negative case: single-paper routing to academic-paper-review\n- Edge case: implicit SLR without explicit keywords\n\n* refactor(skills): shorten SLR description for better trigger rate\n\nReduce description from 833 to 344 chars. Key changes:\n- Lead with \"systematic literature review\" as primary trigger phrase\n- Strengthen single-paper exclusion: \"Not for single-paper tasks\"\n- Remove verbose example patterns that didn't improve routing\n\nTested with run_eval.py (10 runs/query):\n- False positive \"best paper on RL\": 67% → 20% (improved)\n- True positive explicit SLR query: ~30% (unchanged)\n\nLow recall is a routing-layer limitation, not a description issue —\nsee PR description for full analysis.\n\n* Potential fix for pull request finding\n\nCo-authored-by: Copilot Autofix powered by AI <175728472+Copilot@users.noreply.github.com>\n\n---------\n\nCo-authored-by: Copilot Autofix powered by AI <175728472+Copilot@users.noreply.github.com>",
+      "url": "https://github.com/bytedance/deer-flow/commit/654354c624bfc84ecbb60f1394ca4806590bcbdf"
+    },
+    {
+      "sha": "16aa51c9b33f14163582ddfae468b97c6c1c2c4a",
+      "date": "2026-04-10T00:54:28Z",
+      "message": "feat(skills): add systematic-literature-review skill for multi-paper SLR workflows (#2032)\n\n* feat(skills): add systematic-literature-review skill for multi-paper SLR workflows\n\nAdds a new skill that produces a structured systematic literature review (SLR)\nacross multiple academic papers on a topic. Addresses #1862 with a pure skill\napproach: no new tools, no architectural changes, no new dependencies.\n\nSkill layout:\n- SKILL.md — 4+1 phase workflow (plan, search, extract, synthesize, present)\n- scripts/arxiv_search.py — arXiv API client, stdlib only, with a\n  requests->urllib fallback shim modeled after github-deep-research's\n  github_api.py\n- templates/{apa,ieee,bibtex}.md — citation format templates selected\n  dynamically in Phase 4, mirroring podcast-generation's templates/ pattern\n\nDesign notes:\n- Multi-paper synthesis uses the existing `task` tool to dispatch extraction\n  subagents in parallel. SKILL.md's Phase 3 includes a fixed decision table\n  for batch splitting to respect the runtime's MAX_CONCURRENT_SUBAGENTS = 3\n  cap, and explicitly tells the agent to strip the \"Task Succeeded. Result: \"\n  prefix before parsing subagent JSON output.\n- arXiv only, by design. Semantic Scholar and PubMed adapters would push the\n  scope toward a standalone MCP server (see #933) and are intentionally out\n  of scope for this skill.\n- Coexists with the existing `academic-paper-review` skill: this skill does\n  breadth-first synthesis across many papers, academic-paper-review does\n  single-paper peer review. The two are routed via distinct triggers and\n  can compose (SLR on many + deep review on 1-2 important ones).\n- Hard upper bound of 50 papers, tied to the Phase 3 concurrency strategy.\n  Larger surveys degrade in synthesis quality and are better split by\n  sub-topic.\n\nBibTeX template explicitly uses @misc for arXiv preprints (not @article),\nwhich is the most common mistake when generating BibTeX for arXiv papers.\n\narxiv_search.py was smoke-tested end-to-end against the live arXiv API with\ntwo query shapes (relevance sort, submittedDate sort with category filter);\nall returned JSON fields parse correctly (id normalization, Atom namespace\nhandling, URL encoding for multi-word queries).\n\n* fix(skills): prevent LLM from saving intermediate search results to file\n\nAdds an explicit \"do not save\" instruction at the end of Phase 2.\nObserved during Test 1 with DeepSeek: the model saved search results\nto a markdown file before proceeding to Phase 3, wasting 2-3 tool call\nrounds and increasing the risk of hitting the graph recursion limit.\nThe search JSON should stay in context for Phase 3, not be persisted.\n\n* fix(skills): use relevance+start-date instead of submittedDate sorting\n\nTest 2 revealed that arXiv's submittedDate sorting returns the most\nrecently submitted papers in the category regardless of query relevance.\nSearching \"diffusion models\" with sortBy=submittedDate in cs.CV returned\npapers on spatial memory, Navier-Stokes, and photon-counting CT — none\nabout diffusion models. The LLM then retried with 4 different queries,\nwasting tool calls and approaching the recursion limit.\n\nFix: always sort by relevance; when the user wants \"recent\" papers,\ncombine relevance sorting with --start-date to constrain the time window.\nAlso add an explicit \"run the search exactly once\" instruction to prevent\nthe retry loop.\n\n* fix(skills): wrap multi-word arXiv queries in double quotes for phrase matching\n\nWithout quotes, `all:diffusion model` is parsed by arXiv's Lucene as\n`all:diffusion OR model`, pulling in unrelated papers from physics\n(thermal diffusion) and other fields. Wrapping in double quotes forces\nphrase matching: `all:\"diffusion model\"`.\n\nAlso fixes date filtering: the previous bug caused 2011 papers to appear\nin results despite --start-date 2024-04-09, because the unquoted query\nwords were OR'd with the date constraint.\n\nVerified: \"diffusion models\" --category cs.CV --start-date 2024-04-09\nnow returns only relevant diffusion model papers published after April\n2024.\n\n* fix(skills): add query phrasing guide and enforce subagent delegation\n\nTwo fixes from Test 2 observations with DeepSeek:\n\n1. Query phrasing: add a table showing good vs bad query examples.\n   The script wraps multi-word queries in double quotes for phrase\n   matching, so long queries like \"diffusion models in computer vision\"\n   return 0 results. Guide the LLM to use 2-3 core keywords + --category\n   instead.\n\n2. Subagent enforcement: DeepSeek was extracting metadata inline via\n   python -c scripts instead of using the task tool. Strengthen Phase 3\n   to explicitly name the task tool, say \"do not extract metadata\n   yourself\", and explain why (token budget, isolation). This is more\n   direct than the previous natural-language-only approach while still\n   providing the reasoning behind the constraint.\n\n* fix(skills): strengthen search keyword guidance and subagent enforcement\n\nAddress two issues found during end-to-end testing with DeepSeek:\n\n1. Search retry: LLM passed full topic descriptions as queries (e.g.\n   \"diffusion models in computer vision\"), which returned 0 results due\n   to exact phrase matching and triggered retries. Added explicit\n   instruction to extract 2-3 core keywords before searching.\n\n2. Subagent bypass: LLM used python -c to extract metadata instead of\n   dispatching via task tool. Added explicit prohibition list (python -c,\n   bash scripts, inline extraction) with ❌ markers for clarity.\n\n* fix(skills): address Copilot review feedback on SLR skill\n\n- Fix legacy arXiv ID parsing: preserve archive prefix for pre-2007\n  papers (e.g. hep-th/9901001 instead of just 9901001)\n- Fix phase count: \"four phases\" -> \"five phases\"\n- Add subagent_enabled prerequisite note to SKILL.md Notes section\n- Remove PR-specific references (\"PR 1\") from ieee.md and bibtex.md\n  templates, replace with workflow-scoped wording\n- Fix script header: \"stdlib only\" -> \"no additional dependencies\n  required\", fix relative path to github_api.py reference\n- Remove reference to non-existent docs/enhancement/ path in header\n\n* Apply suggestions from code review\n\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>\n\n---------\n\nCo-authored-by: Willem Jiang <willem.jiang@gmail.com>\nCo-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>",
+      "url": "https://github.com/bytedance/deer-flow/commit/16aa51c9b33f14163582ddfae468b97c6c1c2c4a"
+    }
+  ],
+  "recent_issues": [
+    {
+      "number": 8609,
+      "title": "fix(subagents): scope batch submissions to dispatch messages",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/pull/8609"
+    },
+    {
+      "number": 3181,
+      "title": "Chore/sync upstream 2026 05 23",
+      "state": "closed",
+      "comments": 1,
+      "url": "https://github.com/bytedance/deer-flow/pull/3181"
+    },
+    {
+      "number": 8686,
+      "title": "feat(skills): install uploaded Skill archives from chat",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/pull/8686"
+    },
+    {
+      "number": 8684,
+      "title": "[feat] Add NVIDIA NIM as a named OpenAI-compatible provider in the setup wizard",
+      "state": "open",
+      "comments": 1,
+      "url": "https://github.com/bytedance/deer-flow/issues/8684"
+    },
+    {
+      "number": 8682,
+      "title": "fix(threads): keep failed branch checkpoints tied to an owner",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/pull/8682"
+    },
+    {
+      "number": 8671,
+      "title": "fix(agents): sanitize structured json and non-text text blocks in remote tool results",
+      "state": "open",
+      "comments": 1,
+      "url": "https://github.com/bytedance/deer-flow/pull/8671"
+    },
+    {
+      "number": 8613,
+      "title": "fix(memory): re-arm the host extraction model while the backend has none",
+      "state": "open",
+      "comments": 2,
+      "url": "https://github.com/bytedance/deer-flow/pull/8613"
+    },
+    {
+      "number": 8685,
+      "title": "fix(skills): reject damaged archive members as invalid packages",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/pull/8685"
+    },
+    {
+      "number": 8683,
+      "title": "[bug] Skill installation returns 500 for a damaged ZIP member CRC",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/issues/8683"
+    },
+    {
+      "number": 8672,
+      "title": "fix(runtime): enforce user isolation on in-memory runs and run-scoped routes",
+      "state": "open",
+      "comments": 1,
+      "url": "https://github.com/bytedance/deer-flow/pull/8672"
+    },
+    {
+      "number": 2608,
+      "title": "feat(community): add Apify web search, web fetch and Actor tools",
+      "state": "open",
+      "comments": 5,
+      "url": "https://github.com/bytedance/deer-flow/pull/2608"
+    },
+    {
+      "number": 8681,
+      "title": "[bug] Failed conversation branching can leave checkpoints without a thread metadata row",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/issues/8681"
+    },
+    {
+      "number": 8599,
+      "title": "[bug] ACP agent model configuration does not select the session model",
+      "state": "closed",
+      "comments": 1,
+      "url": "https://github.com/bytedance/deer-flow/issues/8599"
+    },
+    {
+      "number": 8670,
+      "title": "fix(sandbox): bound network policy event history and fail closed on database errors",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/pull/8670"
+    },
+    {
+      "number": 8640,
+      "title": "fix: continue chart generation after a null batch entry",
+      "state": "open",
+      "comments": 0,
+      "url": "https://github.com/bytedance/deer-flow/pull/8640"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "research_question": "在相近建筑功能和寿命要求下，竹材、工程竹、结构木材和工程木材相对于常规建筑材料的低碳潜力，如何受到生命周期边界、生物碳、加工胶黏剂、耐久性和报废情景影响？",
+  "review_type": "bounded scoping pilot, not a completed systematic review",
+  "from": "2000-01-01",
+  "to": "2026-11-26",
+  "inclusion": [
+    "同行评议期刊文章或综述",
+    "竹木建筑材料、结构或建筑尺度研究",
+    "明确涉及碳排放、生命周期、替代或结构应用",
+    "DOI及身份能够核验"
+  ],
+  "exclusion": [
+    "与建筑无关的食品、纺织、能源用途",
+    "无可核验学术出处",
+    "重复检索记录"
+  ],
+  "sampling": "每个检索式仅取相关性排序前20条；人工主题覆盖抽样12篇，保留所有排除与未选原因；不以引文数量决定纳入",
+  "chinese_keywords": [
+    "竹材",
+    "工程竹",
+    "重组竹",
+    "木结构",
+    "工程木",
+    "交叉层积木",
+    "低碳建筑",
+    "隐含碳",
+    "生物碳",
+    "生命周期评价",
+    "耐久性",
+    "循环利用"
+  ],
+  "english_boolean": "(bamboo OR engineered bamboo OR timber OR mass timber OR cross laminated timber) AND (building OR construction OR structural) AND (life cycle assessment OR embodied carbon OR biogenic carbon OR substitution)",
+  "chinese_boolean": "(竹材 OR 工程竹 OR 重组竹 OR 木结构 OR 工程木 OR 交叉层积木) AND (建筑 OR 建造 OR 结构) AND (生命周期评价 OR 隐含碳 OR 生物碳 OR 减碳)",
+  "translation_note": "Crossref query.bibliographic 与 OpenAlex search 使用自然语言相关性查询；下列为实际执行串，不宣称执行了上述通用布尔逻辑。中文串用于补充覆盖探测。",
+  "queries": [
+    {
+      "id": "CR01",
+      "source": "crossref",
+      "query": "bamboo construction life cycle assessment environmental carbon",
+      "limit": 20
+    },
+    {
+      "id": "CR02",
+      "source": "crossref",
+      "query": "mass timber buildings embodied biogenic carbon life cycle assessment",
+      "limit": 20
+    },
+    {
+      "id": "CR03",
+      "source": "crossref",
+      "query": "engineered bamboo structural applications environmental assessment",
+      "limit": 20
+    },
+    {
+      "id": "OA01",
+      "source": "openalex",
+      "query": "bamboo building life cycle carbon",
+      "limit": 20
+    },
+    {
+      "id": "OA02",
+      "source": "openalex",
+      "query": "timber buildings carbon storage substitution life cycle",
+      "limit": 20
+    },
+    {
+      "id": "OA03",
+      "source": "openalex",
+      "query": "竹材 木结构 建筑 生命周期 碳排放",
+      "limit": 20
+    }
+  ]
+}
